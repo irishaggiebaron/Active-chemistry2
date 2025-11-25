@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-review" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Review of Chemical Structures</title>
+
+  <introduction>
+    <p> This section is intended as a brief overview of essential information from a previous chemistry course. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-review1.ptx" />
+  <xi:include href="sec-review2.ptx" />
+</chapter>

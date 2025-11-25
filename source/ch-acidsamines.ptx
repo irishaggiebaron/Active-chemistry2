@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-acidsamines" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Carboxylic acids and amines</title>
+
+  <introduction>
+    <p> This chapter covers carboxylic acids and amines</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-acidsamines.ptx" />
+
+</chapter>

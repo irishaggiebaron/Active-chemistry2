@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-OHSH" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Alcohols and thiols</title>
+
+  <introduction>
+    <p> This chapter covers alcohols and thiols.</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-OHSH1.ptx" />
+
+</chapter>

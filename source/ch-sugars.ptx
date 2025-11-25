@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-sugars" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Carbohydrates</title>
+
+  <introduction>
+    <p> This section covers carbohydrates, discussing their structures, properties, and their relevance to biology.</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-sugars1.ptx" />
+  <xi:include href="sec-sugars2.ptx" />
+  <xi:include href="sec-sugars3.ptx" />
+</chapter>

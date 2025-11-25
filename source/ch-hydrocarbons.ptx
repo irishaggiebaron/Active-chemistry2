@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-hydrocarbons" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Hydrocarbons</title>
+
+  <introduction>
+    <p> This section covers the basics of organic chemistry.  Hydrocarbons are covered as well as an introduction to functional groups. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-hydrocarbons1.ptx" />
+
+</chapter>
