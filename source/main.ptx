@@ -12,8 +12,14 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-
+    <xi:include href="./ch-hydrocarbons.ptx" />
+    <xi:include href="./ch-oxygengroups.ptx" />
+    <xi:include href="./ch-sugars.ptx" />
+    <xi:include href="./ch-acidsamines.ptx" />
+    <xi:include href="./ch-lipids.ptx" />
+    <xi:include href="./ch-proteins.ptx" />
+    <xi:include href="./ch-nucleicacids.ptx" />
+    <xi:include href="./ch-metabolism.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
