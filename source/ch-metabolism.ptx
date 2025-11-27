@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter Title</title>
+<chapter xml:id="ch-metabolism" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Metabolism</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> This section covers basics of metabolism, including central metabolism and cell signaling. </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="sec-metabolism1.ptx" />
 
 </chapter>
