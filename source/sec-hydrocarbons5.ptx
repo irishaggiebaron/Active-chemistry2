@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-hydrocarbons5" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+  <title>3D structures and geometry</title>
+	
+  <p>
+		<term>3D structures and geometry; 3D representations on paper</term>
+	</p>
 
-  <p> Text of section. </p>
+	<p>
+		Recall from a previous course that covalent molecules have distinct geometries and shapes that are dictated by the number of electron groups around an atom as well as how many of those groups are atoms. When considering the geometry and shape of a molecule, we very often start with the geometry and shape around an individual atom. We then determine the number of <term>electron groups</term> (either lone pairs of electrons or atoms that are directly bound to the central atom). These electron groups spread out as far as possible in 3-dimensional space. The arrangement of the electron groups is called the <term>electron geometry</term>. The possible electron groups that we’ll encounter in this course are linear (2 groups), trigonal planar (3 groups), and tetrahedral (4 groups). In organic chemistry, by far the most common electron geometry is tetrahedral.
+	</p>
+
+	<table>
+		<title></title>
+<col width="17%" />
+<col width="14%" />
+<col width="17%" />
+<col width="18%" />
+<col width="18%" />
+<col width="15%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left">Number of electron groups</cell>
+			<cell halign="left">Electron geometry</cell>
+			<cell halign="left">Number of atoms bound</cell>
+			<cell halign="left">Number of lone pairs of electrons</cell>
+			<cell halign="left">Molecular shape</cell>
+			<cell halign="left">	<p>
+		Bond angles
+	</p>
+
+	<p>
+		(degrees)
+	</p></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">2</cell>
+			<cell halign="left">Linear</cell>
+			<cell halign="left">2</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">Linear</cell>
+			<cell halign="left">180</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">3</cell>
+			<cell halign="left">Trigonal planar</cell>
+			<cell halign="left">3</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">Trigonal planar</cell>
+			<cell halign="left">120</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">2</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">Bent</cell>
+			<cell halign="left">&lt;120</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">4</cell>
+			<cell halign="left">Tetrahedral</cell>
+			<cell halign="left">4</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">Tetrahedral</cell>
+			<cell halign="left">109.5</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">3</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">Trigonal pyramidal</cell>
+			<cell halign="left">&lt;109.5</cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">2</cell>
+			<cell halign="left">2</cell>
+			<cell halign="left">Bent</cell>
+			<cell halign="left">&lt;109.5</cell>
+		</row>
+		</tabular>
+	</table>
+
+	<p>
+		One challenge in chemistry is being able to draw 3-dimensional objects on a 2-dimensional sheet of paper. To aid in this, we often use wedges and dashes to represent bonds that not in the plane of the paper. Wedges are meant to represent bonds that are pointed toward the viewer. Dashes are meant to represent bonds that are pointed away from the viewer. So a tetrahedral shape for methane can be represented as shown below:
+	</p>
+
+	<figure>
+	<image source="media/image1.emf"/>
+		<caption></caption>
+</figure>
 
 </section>

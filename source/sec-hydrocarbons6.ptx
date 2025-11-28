@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-lipids1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Naming Branched Alkanes</title>
+
+<p>
+    <term>Summary:</term>
+</p>
+
+	<p>
+		<term>Naming branched alkanes</term>
+	</p>
+
+	<p>
+		We’ve learned how to name straight chain alkanes and alkanes that have ring structures. What about alkanes that have branches? If these branches contain carbon atoms, they are called <term>alkyl groups</term>. We name alkyl groups by counting the number of carbon atoms in the alkyl group and using the same prefixes that we used for naming alkanes in 11.1. We then add a -yl suffix. So a one carbon alkyl group is called a methyl group.
+	</p>
+
+	<p>
+		Now that we understand alkyl groups, we’re ready to begin naming branched alkanes. To do this, we follow the steps listed below for structures that are NOT rings:
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Identify the longest carbon chain
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						This is the parent chain
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Count the number of carbons and name it as-if it had no substituents
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Number the carbons on the parent chain
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Start on the end that is closest to the first substituent
+					</p>
+				
+					<p><ol>
+						<li>
+							<p>
+								If there is a tie, start on the end that is closest to the 2<sup>nd</sup> substituent…or the 3<sup>rd</sup>…etc…
+							</p>
+						</li>
+				
+						<li>
+							<p>
+								If there is still a tie after going through all of the substituents, give preference to the alkyl group substituent that comes first alphabetically
+							</p>
+						</li>
+				
+					</ol></p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Name each substituent. Assign each substituent a number based on the carbon of the parent chain that it is bound to and put the number in front of the substituent name. Numbers are separated from letters by hyphens.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Combine identical alkyl groups together keeping ALL of their numbers, listed in numerical order, separated by commas. Add a prefix (see the table below) to indicate the number of the alkyl groups.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				List the substituents in alphabetical order (ignoring their prefixes that state the number of that type of substituent). List the substituents first, then the name of the parent chain. There should be no spaces in the name. All numbers are separated by commas. Hyphens separate letters and numbers
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		Table of prefixes for indicating the number of identical substituents in a molecule
+	</p>
+
+	<table>
+		<title></title>
+<col width="45%" />
+<col width="45%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left"><term>Number</term></cell>
+			<cell halign="left"><term>Prefix</term></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">1</cell>
+			<cell halign="left">none</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">2</cell>
+			<cell halign="left">di-</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">3</cell>
+			<cell halign="left">tri-</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">4</cell>
+			<cell halign="left">tetra-</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">5</cell>
+			<cell halign="left">penta-</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">6</cell>
+			<cell halign="left">hexa-</cell>
+		</row>
+		</tabular>
+	</table>
+
+	<p>
+		<term>Example: name the following molecule</term>
+	</p>
+
+	<figure>
+	<image source="media/image3.emf"/>
+		<caption></caption>
+</figure>
+
+	<p><ol>
+		<li>
+			<p>
+				Identify the longest carbon chain
+			</p>
+		</li>
+
+	</ol></p>
+
+	<figure>
+	<image source="media/image4.emf"/>
+		<caption></caption>
+</figure>
+
+	<p><ol>
+		<li>
+			<p>
+				This is the parent chain
+			</p>
+		</li>
+
+		<li>
+			<p>
+				9 carbons; nonane
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p><ol>
+		<li>
+			<p>
+				Number the carbons on the parent chain
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Start on the end that is closest to the first substituent
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+	<blockquote>
+			<figure>
+	<image source="media/image5.png"/>
+		<caption>A blue and red lines on a black background Description automatically generated</caption>
+</figure>
+
+	<p>
+		The substituents are circled in blue. If we number the longest carbon chain from left to right, we reach the first substituent at carbon #2. If we instead numbered right to left, we’d reach the first substituent at carbon #5. We should number left to right
+	</p>
+	</blockquote>
+
+	<p><ol>
+		<li>
+			<p>
+				Name each substituent. Assign each substituent a number based on the carbon of the parent chain that it is bound to and put the number in front of the substituent name. Numbers are separated from letters by hyphens.
+			</p>
+		</li>
+
+	</ol></p>
+
+	<blockquote>
+			<p>
+		2-methyl 3-methyl and 5-ethyl are our substituents
+	</p>
+	</blockquote>
+
+	<p><ol>
+		<li>
+			<p>
+				Combine identical alkyl groups together keeping ALL of their numbers, listed in numerical order, separated by commas. Add a prefix (see the table below) to indicate the number of the alkyl groups).
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		We have two methyl groups: 2,3-dimethyl
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				List the substituents in alphabetical order (ignoring their prefixes that state the number of that type of substituent). List the substituents first, then the name of the parent chain. There should be no spaces in the name. All numbers are separated by commas. Hyphens separate letters and numbers
+			</p>
+		</li>
+
+	</ol></p>
+
+	<p>
+		<term><em>5-ethyl-2,3-dimethylnonane</em></term> (note that ethyl comes before methyl (ignore the di- prefix) in alphabetical order
+	</p>
+
+	<blockquote>
+			<p>
+		There are also alkyl groups that are themselves branched. See the table below. These alkyl groups must be memorized for this course.
+	</p>
+	</blockquote>
+
+	<table>
+		<title></title>
+<col width="48%" />
+<col width="48%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left">Alkyl group name</cell>
+			<cell halign="left">Structure (R denotes the rest of the structure)</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">isopropyl</cell>
+			<cell halign="left"><image source='media/image6.emf'/></cell>
+		</row>
+		<row class="even">
+			<cell halign="left">isobutyl</cell>
+			<cell halign="left"><image source='media/image7.emf'/></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"><em>sec</em>-butyl</cell>
+			<cell halign="left"><image source='media/image8.emf'/></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"><em>tert</em>-butyl</cell>
+			<cell halign="left"><image source='media/image9.emf'/></cell>
+		</row>
+		</tabular>
+	</table>
+
+	<blockquote>
+			<p>
+		So the structure of 4-<em>tert</em>-butyldecane would be:
+	</p>
+
+	<figure>
+	<image source="media/image10.emf"/>
+		<caption></caption>
+</figure>
+	</blockquote>
+
+
+</section>
