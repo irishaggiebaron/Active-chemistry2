@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-hydrocarbons3" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Organic chemistry, hydrocarbons, and alkanes</title>
+
+  <p><term>Summary:</term></p>
+
+	<p>
+		<term>Organic chemistry, hydrocarbons, and alkanes</term>
+	</p>
+
+	<p>
+		Classification of organic molecules:
+	</p>
+
+	<p>
+		The distinction between alkanes, alkenes, alkynes, and aromatics has to deal with the types of bonds between the carbon atoms and their arrangement. <term>Alkanes</term> are the simplest type of hydrocarbon because they contain exclusively single bonds between the carbon atoms. <em>Each carbon in every organic molecule needs to make 4 bonds</em>. In a hydrocarbon, these bonds are either to another carbon atom or to a hydrogen atom. When there are only carbon-carbon single bonds in a hydrocarbon, the number of bonds to hydrogen atoms is higher than if there were double bonds or triple bonds (see the example below illustrating this for two carbon hydrocarbons. Since alkanes contain only C-C single bonds, they have the maximum number of hydrogen atoms and are thus said to be saturated with hydrogen atoms and are thus also called <term>saturated hydrocarbons</term>. Hydrocarbons that contain double and triple bonds contain less than the maximum number of hydrogen atoms and are thus called <term>unsaturated hydrocarbons</term>. These same definitions will apply in a later chapter when we discuss saturated and unsaturated fats.
+	</p>
+
+	<p>
+		Alkane: <m>C_{2}H_{6}</m>
+	</p>
+
+	<figure>
+	<image source="media/image1.emf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		Alkene: <m>C_{2}H_{4}</m>
+	</p>
+
+	<figure>
+	<image source="media/image2.emf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		Alkyne: <m>C_{2}H_{2}</m>
+	</p>
+
+	<figure>
+	<image source="media/image3.emf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		Now we are going to begin the process of naming organic molecules by learning how to name unbranched alkanes. This information is foundational for naming every other type of organic molecule and MUST be mastered early in this course. We name alkanes by counting the number of carbon atoms in the chain. The number of carbon atoms determines the prefix that will be used for the molecule name. See the figure below for the list of prefixes that must be memorized. The suffix used tells us the type of organic molecule that we’re naming. In the case of alkanes, the suffix is -ane. So a two carbon alkane would have the prefix eth- and the suffix -ane, creating the name ethane. Alkanes can occur as rings as well. In this course, we’ll only deal with naming compounds with a single ring. To name these compounds, we count the number of carbons and assign the appropriate prefix as before along with the suffix -ane. We also need to add an extra prefix of cyclo- at the beginning to indicate that it’s a ring. So a four carbon alkane ring would be called cyclobutene.
+	</p>
+
+	<table>
+		<title></title>
+<col width="50%" />
+<col width="50%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left"><term>Number of carbon atoms</term></cell>
+			<cell halign="left"><term>Prefix</term></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">1</cell>
+			<cell halign="left">meth</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">2</cell>
+			<cell halign="left">eth</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">3</cell>
+			<cell halign="left">prop</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">4</cell>
+			<cell halign="left">but</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">5</cell>
+			<cell halign="left">pent</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">6</cell>
+			<cell halign="left">hex</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">7</cell>
+			<cell halign="left">hept</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">8</cell>
+			<cell halign="left">oct</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">9</cell>
+			<cell halign="left">non</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">10</cell>
+			<cell halign="left">dec</cell>
+		</row>
+		</tabular>
+	</table>
+
+
+</section>

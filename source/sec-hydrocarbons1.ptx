@@ -1,8 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-hydrocarbons1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+  <title>Review of Lewis structures</title>
 
-  <p> Text of section. </p>
+  <p><term>Summary:</term></p>
+
+
+  <p>
+		<term>Review of Lewis Structures</term>
+	</p>
+
+	<p>
+		In this section we will review the rules for drawing Lewis structures and figuring out formal charges that you learned in a previous course. Lewis structures can easily be drawn by following the steps outlined below:
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Count the number of valence electrons. Don’t forget to add or subtract electrons if the molecule has a charge!
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Arrange the atoms and draw single bonds joining them together
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Add lone pairs of electrons to atoms, trying to satisfy the octet rule
+			</p>
+		</li>
+
+		<li>
+			<p>
+				*If you run out of electrons and the octet rule isn’t satisfied, then move lone pairs of electrons to create multiple bonds. Repeat this until the octet rule is satisfied for each atom
+			</p>
+		</li>
+
+		<li>
+			<p>
+				**If an atom in the structure is in the 3<sup>rd</sup> period or lower, then check the formal charge on the atoms. Try creating additional double bonds to that atom and re-evaluate the formal charges. Repeat this until the central atom has a charge of zero.
+			</p>
+		</li>
+
+	</ol></p>
+
+	<blockquote>
+			<p>
+		*This rule doesn’t always apply…only when there are insufficient electrons to satisfy the octet rule
+	</p>
+
+	<p>
+		**In this course, the only atoms that will do this are phosphorous and sulfur
+	</p>
+	</blockquote>
+
+	<p>
+		To help with these steps, recall that <term>valence electrons</term> are those electrons in the outer shell of an atom. The number of valence electrons can be determined by determining the main group number that the element belongs to (or alternatively by counting the number of tall columns in the periodic table from left to right). We also need to recall that if an atom has a formal positive charge, then that number of electrons must be subtracted from the total; conversely for each negative charge an electron must be added to the total.
+	</p>
+
+	<p>
+		When drawing Lewis structures, we often need to evaluate the formal charge on an atom. To review, the way that this is done is as follows:
+	</p>
+
+	<p>
+		<me>Formal\ charge = \#\ of\ valence\ electrons\ for\ an\ atom - \#\ of\ electrons\ that\ the\ atom\ "owns"</me>
+	</p>
+
+	<p>
+		An atom “owns” all of the lone pairs of electrons on itself as well as one electron in each bond around it.
+	</p>
 
 </section>

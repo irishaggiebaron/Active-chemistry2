@@ -9,5 +9,10 @@
 
   <!-- include sections -->
   <xi:include href="sec-hydrocarbons1.ptx" />
+  <xi:include href="sec-hydrocarbons2.ptx" />
+  <xi:include href="sec-hydrocarbons3.ptx" />
+  <xi:include href="sec-hydrocarbons4.ptx" />
+  <xi:include href="sec-hydrocarbons5.ptx" />
+  <!-- <xi:include href="sec-hydrocarbons6.ptx" /> -->
 
 </chapter>

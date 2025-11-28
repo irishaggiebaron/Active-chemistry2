@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-hydrocarbons4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Condensed structures and skeletal structures</title>
+
+	<p>
+		<term>Chemists are lazy: condensed structures and skeletal structures</term>
+	</p>
+
+	<p>
+		In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a <term>condensed structure</term> or a <term>skeletal structure</term> instead of a Lewis structure.
+	</p>
+
+	<p>
+		A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:
+	</p>
+
+	<p>
+		A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two unshown bonds must be to two hydrogen atoms.
+	</p>
+
+	<p>
+		In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.
+	</p>
+
+	<p>
+		Decane:
+	</p>
+
+	<p>
+		Lewis structure
+	</p>
+
+	<figure>
+	<image source="media/image7.emf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		Condensed structure options:
+	</p>
+
+	<figure>
+	<image source="media/image8.emf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		<me>CH_{3}CH_{2}CH_{2}{CH}_{2}CH_{2}CH_{2}CH_{2}CH_{2}CH_{2}CH_{3}</me>
+	</p>
+
+	<p>
+		<me>CH_{3}\left( CH_{2} \right)_{8}CH_{3}</me>
+	</p>
+
+	<p>
+		Skeletal structure
+	</p>
+
+	<figure>
+	<image source="media/image9.emf"/>
+		<caption></caption>
+</figure>
+
+	<p>
+		Mixture
+	</p>
+
+	<figure>
+	<image source="media/image10.emf"/>
+		<caption></caption>
+</figure>
+
+
+</section>

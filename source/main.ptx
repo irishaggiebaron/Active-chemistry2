@@ -12,7 +12,6 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-review.ptx" />
     <xi:include href="./ch-hydrocarbons.ptx" />
     <xi:include href="./ch-OHSH.ptx" /> 
     <xi:include href="./ch-carbonylgroups.ptx" />
