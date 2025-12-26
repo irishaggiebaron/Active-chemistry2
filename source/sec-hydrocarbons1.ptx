@@ -90,7 +90,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="methane-lewis.png">
+						<image source="methane-lewis.png" width="25%">
 							<description>A carbon with 4 lines that join to 4 hydrogens that surround it</description>
 						</image>
 					</p>
@@ -104,7 +104,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="ammonia-lewis.png">
+						<image source="ammonia-lewis.png" width="20%">
 							<description>A nitrogen with three lines joining to 3 different hydrogen atoms. There is also a lone pair of electrons on the central nitrogen atom.</description>
 						</image>
 
@@ -119,7 +119,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="ammonium-lewis.png">
+						<image source="ammonium-lewis.png" width="15%">
 							<shortdescription>(for accessibility)</shortdescription>
 						</image>
 					</p>
@@ -133,7 +133,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="hcn-lewis.png">
+						<image source="hcn-lewis.png" width="15%">
 							<shortdescription>(for accessibility)</shortdescription>
 						</image>
 					</p>
@@ -147,7 +147,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="c2h2-lewis.png">
+						<image source="c2h2-lewis.png" width="15%">
 							<shortdescription>(for accessibility)</shortdescription>
 						</image>
 					</p>
@@ -161,7 +161,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="formate-lewis.png">
+						<image source="formate-lewis.png" width="15%">
 							<shortdescription>(for accessibility)</shortdescription>
 						</image>
 					</p>
@@ -175,7 +175,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="ccl4-lewis.png">
+						<image source="ccl4-lewis.png" width="15%">
 							<shortdescription>(for accessibility)</shortdescription>
 						</image>
 					</p>
@@ -189,7 +189,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="phosphate-lewis.png">
+						<image source="phosphate-lewis.png" width="15%">
 							<shortdescription>(for accessibility)</shortdescription>
 						</image>
 					</p>
