@@ -31,16 +31,15 @@
 	</p>
 
 	<figure>
+		<sidebyside>
+			
 	<image source="c2h4.png" width="30%">
 		<description>Lewis structure of ethene</description>
 		</image>
-<p>
-	
-
-</p>
 	<image source="c2h2.png" width="30%">
 		<description>Lewis structure of ethyne</description>
 	</image>
+</sidebyside>
 	<caption>Examples of unsaturated hydrocarbons.</caption>
 </figure>
 
