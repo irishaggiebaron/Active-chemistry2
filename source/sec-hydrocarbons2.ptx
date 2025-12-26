@@ -8,12 +8,315 @@
 	</p>
 
 	<p>
-		In this course, we are learning about <term>organic chemistry</term> and <term>biological chemistry</term>. Organic chemistry is the chemistry of carbon containing molecules whereas biological chemistry focuses on the chemicals and reactions that are necessary for the existence of life. Carbon plays a central role in biological chemistry because of its versatility, which you’ll explore more in the exercise below.
+		In this course, we are learning about <term><xref ref="def-organicchemistry" text="custom">organic chemistry</xref></term> and <term><xref ref="def-biologicalchemistry" text="custom">biological chemistry</xref></term>. Organic chemistry is the chemistry of carbon containing molecules whereas biological chemistry focuses on the chemicals and reactions that are necessary for the existence of life. Carbon plays a central role in biological chemistry because of its versatility, which you’ll explore more in the exercise below.
 	</p>
 
 	<p>
 		Organic and biological molecules are often MUCH more complex than the simple covalent compounds that you drew structures of above. It’d be very nice to have a more straightforward way of determining the structure of a molecule than what we’ve already learned. Thankfully, Lewis structures contain a number of important patterns that we can take advantage of in order to correctly draw molecular structures much more quickly and easily than by using the steps covered previously. In the next set of exercises, you’ll establish some of these patterns.
 	</p>
+	<exercises xml:id="exercises-hydrocarbons2">
+		<exercise>
+			<statement>
+				<p>
+					Complete the table below using your knowledge of the octet rule and the structures that you drew in Exercise 1. <term>This table is VERY important and you should start trying to use this to draw chemical structures.</term>
+				</p>
+			</statement>
+			<table>
+		<title></title>
+<col width="21%" />
+<col width="18%" />
+<col width="20%" />
+<col width="21%" />
+<col width="20%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left">Atom</cell>
+			<cell halign="left">Number of valence electrons</cell>
+			<cell halign="left">Charge</cell>
+			<cell halign="left">Number of bonds</cell>
+			<cell halign="left">Number of lone pairs of electrons</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">H</cell>
+			<cell halign="left"></cell>
+			<cell halign="left">0</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">+1</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="even">
+			<cell halign="left">C</cell>
+			<cell halign="left"></cell>
+			<cell halign="left">0</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">N</cell>
+			<cell halign="left"></cell>
+			<cell halign="left">0</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">+1</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">O</cell>
+			<cell halign="left"></cell>
+			<cell halign="left">0</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">	<p>
+		Any halogen
+	</p>
 
+	<p>
+		(if they obey the octet rule)
+	</p></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">0</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">S (if it’s obeying the octet rule)</cell>
+			<cell halign="left"></cell>
+			<cell halign="left">0</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+		</row>
+		</tabular>
+	</table>
+
+<answer>
+	<p>
+		<table>
+		<title></title>
+<col width="21%" />
+<col width="18%" />
+<col width="20%" />
+<col width="21%" />
+<col width="20%" />
+		<tabular>
+		<row header="yes">
+			<cell halign="left">Atom</cell>
+			<cell halign="left">Number of valence electrons</cell>
+			<cell halign="left">Charge</cell>
+			<cell halign="left">Number of bonds</cell>
+			<cell halign="left">Number of lone pairs of electrons</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">H</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">0</cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">1</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">+1</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">0</cell>
+		</row>
+		<row class="even">
+			<cell halign="left">C</cell>
+			<cell halign="left">4</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">4</cell>
+			<cell halign="left">0</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">N</cell>
+			<cell halign="left">5</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">3</cell>
+			<cell halign="left">1</cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">+1</cell>
+			<cell halign="left">4</cell>
+			<cell halign="left">0</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">O</cell>
+			<cell halign="left">6</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">2</cell>
+			<cell halign="left">2</cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">3</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">Any halogen
+		<p>(if they obey the octet rule)
+	</p></cell>
+			<cell halign="left">7</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">3</cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">4</cell>
+		</row>
+		<row class="odd">
+			<cell halign="left">S (if it’s obeying the octet rule)</cell>
+			<cell halign="left">6</cell>
+			<cell halign="left">0</cell>
+			<cell halign="left">2</cell>
+			<cell halign="left">2</cell>
+		</row>
+		<row class="even">
+			<cell halign="left"></cell>
+			<cell halign="left"></cell>
+			<cell halign="left">-1</cell>
+			<cell halign="left">1</cell>
+			<cell halign="left">3</cell>
+		</row>
+		</tabular>
+	</table>
+
+
+	</p>
+</answer>
+		</exercise>
+		<exercise>
+			<statement>
+				<p>
+					Looking at the “number of bonds” column for carbon, what do you notice that is special about carbon compared to the other neutral (ie. zero charge) elements in this chart? How does this make carbon more versatile than any other element?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Carbon can make 4 bonds, which is more than any other element in the table.  This allows carbons to form a larger variety of structures than other elements
+				</p>
+			</answer>
+		</exercise>
+		<exercisegroup>
+		
+			<introduction>
+				<p>
+					Try drawing the Lewis structures of the molecules shown below using the table you just completed
+				</p>
+			</introduction>
+		
+			<exercise>
+				<statement>
+					<p>
+						<m>CH_3SH</m>
+					</p>
+				</statement>
+				<answer>
+					<p>
+						<image source="methanethiol-lewis.png" width="20%">
+							<shortdescription>A CH3 group bound to an SH group</shortdescription>
+						</image>
+					</p>
+				</answer>
+			</exercise>
+			<exercise>
+				<statement>
+					<p>
+						<m>CH_2O</m>
+					</p>
+				</statement>
+				<answer>
+					<p>
+						<image source="formaldehyde-lewis.png" width="20%">
+							<shortdescription>Lewis structure of formaldehyde</shortdescription>
+						</image>
+					</p>
+				</answer>
+			</exercise>
+			<exercise>
+				<statement>
+					<p>
+						<m>H_2O_2</m>
+					</p>
+				</statement>
+				<answer>
+					<p>
+						<image source="hydrogenperoxide-lewis.png" width="20%">
+							<shortdescription>Lewis structure of hydrogen peroxide</shortdescription>
+						</image>
+					</p>
+				</answer>
+			</exercise>
+			<exercise>
+				<statement>
+					<p>
+						<m>CH_2CF_2</m>
+					</p>
+				</statement>
+				<answer>
+					<p>
+						<image source="c2h2f2-lewis.png" width="20%">
+							<shortdescription>Lewis structure possibilities for C2H2F2</shortdescription>
+						</image>
+					</p>
+				</answer>
+			</exercise>
+		
+		</exercisegroup>
+	</exercises>
 
 </section>
