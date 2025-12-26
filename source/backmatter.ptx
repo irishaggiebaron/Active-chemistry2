@@ -13,11 +13,30 @@
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->
 
   <appendix> <title>Definitions</title>
+    <term>Chapter 1</term>
     <p>
         <definition xml:id="def-valenceelectrons">
         <statement>
           <p>
             <term>Valence electrons</term> Electrons that are in the outer shell of an atom.  They usually form bonds to other atoms or exist as lone pairs of electrons on that atom. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+    <p>
+        <definition xml:id="def-organicchemistry">
+        <statement>
+          <p>
+            <term>Organic chemistry</term> Chemistry of compounds that include carbon. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+    <p>
+        <definition xml:id="def-valenceelectrons">
+        <statement>
+          <p>
+            <term>Biological chemistry</term> Chemistry and chemical compounds that occur in living organisms. 
           </p>
         </statement>
       </definition>
