@@ -90,7 +90,7 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="methane-lewis.png" width="25%">
+						<image source="methane-lewis.png" width="20%">
 							<description>A carbon with 4 lines that join to 4 hydrogens that surround it</description>
 						</image>
 					</p>
@@ -119,8 +119,8 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="ammonium-lewis.png" width="15%">
-							<shortdescription>(for accessibility)</shortdescription>
+						<image source="ammonium-lewis.png" width="20%">
+							<shortdescription>A nitrogen atom with 4 single bonds to hydrogen atoms.  The nitrogen atom has a positive charge.</shortdescription>
 						</image>
 					</p>
 				</answer>
@@ -133,8 +133,8 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="hcn-lewis.png" width="15%">
-							<shortdescription>(for accessibility)</shortdescription>
+						<image source="hcn-lewis.png" width="20%">
+							<shortdescription>A carbon with a single bond to a hydrogen atom.  The carbon also has a triple bond to a nitrogen atom.  The nitrogen atom also has a lone pair of electrons.</shortdescription>
 						</image>
 					</p>
 				</answer>
@@ -147,8 +147,8 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="c2h2-lewis.png" width="15%">
-							<shortdescription>(for accessibility)</shortdescription>
+						<image source="c2h2-lewis.png" width="20%">
+							<shortdescription>Two carbons with a double bond linking them.  Each carbon also has 2 single bonds to 2 different hydrogen atoms.</shortdescription>
 						</image>
 					</p>
 				</answer>
@@ -161,8 +161,8 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="formate-lewis.png" width="15%">
-							<shortdescription>(for accessibility)</shortdescription>
+						<image source="formate-lewis.png" width="20%">
+							<shortdescription>A carbon with a single bond to a hydrogen.  That carbon also has a double bond to an oxygen.  That oxygen has two lone pairs of electrons.  The carbon also has a single bond to another oxygen atom.  That oxygen has 3 lone pairs of electrons and a negative charge.</shortdescription>
 						</image>
 					</p>
 				</answer>
@@ -175,8 +175,8 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="ccl4-lewis.png" width="15%">
-							<shortdescription>(for accessibility)</shortdescription>
+						<image source="ccl4-lewis.png" width="20%">
+							<shortdescription>A carbon atom with 4 chlorines around it.  Each chlorine is bound to the carbon by a single bond.  Each chlorine has 3 lone pairs of electrons around it.</shortdescription>
 						</image>
 					</p>
 				</answer>
@@ -189,8 +189,8 @@
 				</statement>
 				<answer>
 					<p>
-						<image source="phosphate-lewis.png" width="15%">
-							<shortdescription>(for accessibility)</shortdescription>
+						<image source="phosphate-lewis.png" width="20%">
+							<shortdescription>Phosphorous with 4 oxygens around it.  There are 2 bonds to one of the oxygens and a single bond to the other three.  The doubly bound oxygen has 2 lone pairs of the electrons.  The singly bound oxygen atoms have 3 lone pairs of electrons and a negative charge</shortdescription>
 						</image>
 					</p>
 				</answer>
