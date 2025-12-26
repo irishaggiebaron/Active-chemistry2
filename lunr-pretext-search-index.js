@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Review of Lewis structures",
-  "body": " Review of Lewis structures  Summary:   Review of Lewis Structures   In this section we will review the rules for drawing Lewis structures and figuring out formal charges that you learned in a previous course. Lewis structures can easily be drawn by following the steps outlined below:    Count the number of valence electrons. Don’t forget to add or subtract electrons if the molecule has a charge!    Arrange the atoms and draw single bonds joining them together    Add lone pairs of electrons to atoms, trying to satisfy the octet rule    *If you run out of electrons and the octet rule isn’t satisfied, then move lone pairs of electrons to create multiple bonds. Repeat this until the octet rule is satisfied for each atom    **If an atom in the structure is in the 3 rd period or lower, then check the formal charge on the atoms. Try creating additional double bonds to that atom and re-evaluate the formal charges. Repeat this until the central atom has a charge of zero.     *This rule doesn’t always apply…only when there are insufficient electrons to satisfy the octet rule  **In this course, the only atoms that will do this are phosphorous and sulfur   To help with these steps, recall that valence electrons are those electrons in the outer shell of an atom. The number of valence electrons can be determined by determining the main group number that the element belongs to (or alternatively by counting the number of tall columns in the periodic table from left to right). We also need to recall that if an atom has a formal positive charge, then that number of electrons must be subtracted from the total; conversely for each negative charge an electron must be added to the total.  When drawing Lewis structures, we often need to evaluate the formal charge on an atom. To review, the way that this is done is as follows:     An atom “owns” all of the lone pairs of electrons on itself as well as one electron in each bond around it.  "
+  "body": " Review of Lewis structures   Review of Lewis Structures   In this section we will review the rules for drawing Lewis structures and figuring out formal charges that you learned in a previous course. Lewis structures can easily be drawn by following the steps outlined below:    Count the number of valence electrons. Don’t forget to add or subtract electrons if the molecule has a charge!    Arrange the atoms and draw single bonds joining them together    Add lone pairs of electrons to atoms, trying to satisfy the octet rule    *If you run out of electrons and the octet rule isn’t satisfied, then move lone pairs of electrons to create multiple bonds. Repeat this until the octet rule is satisfied for each atom    **If an atom in the structure is in the 3 rd period or lower, then check the formal charge on the atoms. Try creating additional double bonds to that atom and re-evaluate the formal charges. Repeat this until the central atom has a charge of zero.     *This rule doesn’t always apply…only when there are insufficient electrons to satisfy the octet rule  **In this course, the only atoms that will do this are phosphorous and sulfur   To help with these steps, recall that valence electrons are those electrons in the outer shell of an atom. The number of valence electrons can be determined by determining the main group number that the element belongs to (or alternatively by counting the number of tall columns in the periodic table from left to right). We also need to recall that if an atom has a formal positive charge, then that number of electrons must be subtracted from the total; conversely for each negative charge an electron must be added to the total.  When drawing Lewis structures, we often need to evaluate the formal charge on an atom. To review, the way that this is done is as follows:     An atom “owns” all of the lone pairs of electrons on itself as well as one electron in each bond around it.     Draw Lewis dot structures for all of the molecules indicated below. Show all lone pairs of electrons in your structures.            A carbon with 4 lines that join to 4 hydrogens that surround it               A nitrogen with three lines joining to 3 different hydrogen atoms. There is also a lone pair of electrons on the central nitrogen atom.               A nitrogen atom with 4 single bonds to hydrogen atoms. The nitrogen atom has a positive charge.         (Put the carbon in the middle)      A carbon with a single bond to a hydrogen atom. The carbon also has a triple bond to a nitrogen atom. The nitrogen atom also has a lone pair of electrons.               Two carbons with a double bond linking them. Each carbon also has 2 single bonds to 2 different hydrogen atoms.               A carbon with a single bond to a hydrogen. That carbon also has a double bond to an oxygen. That oxygen has two lone pairs of electrons. The carbon also has a single bond to another oxygen atom. That oxygen has 3 lone pairs of electrons and a negative charge.               A carbon atom with 4 chlorines around it. Each chlorine is bound to the carbon by a single bond. Each chlorine has 3 lone pairs of electrons around it.               Phosphorous with 4 oxygens around it. There are 2 bonds to one of the oxygens and a single bond to the other three. The doubly bound oxygen has 2 lone pairs of the electrons. The singly bound oxygen atoms have 3 lone pairs of electrons and a negative charge        "
 },
 {
   "id": "sec-hydrocarbons1-2",
@@ -25,25 +25,88 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-hydrocarbons1-3",
-  "level": "2",
-  "url": "sec-hydrocarbons1.html#sec-hydrocarbons1-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
   "body": "Review of Lewis Structures "
 },
 {
-  "id": "sec-hydrocarbons1-7",
+  "id": "sec-hydrocarbons1-6",
   "level": "2",
-  "url": "sec-hydrocarbons1.html#sec-hydrocarbons1-7",
+  "url": "sec-hydrocarbons1.html#sec-hydrocarbons1-6",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "valence electrons "
+},
+{
+  "id": "exercises-hydrocarbons1-1-2",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-2",
+  "type": "Exercise",
+  "number": "1.1.1",
+  "title": "",
+  "body": "         A carbon with 4 lines that join to 4 hydrogens that surround it     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-3",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-3",
+  "type": "Exercise",
+  "number": "1.1.2",
+  "title": "",
+  "body": "         A nitrogen with three lines joining to 3 different hydrogen atoms. There is also a lone pair of electrons on the central nitrogen atom.     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-4",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-4",
+  "type": "Exercise",
+  "number": "1.1.3",
+  "title": "",
+  "body": "         A nitrogen atom with 4 single bonds to hydrogen atoms. The nitrogen atom has a positive charge.     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-5",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-5",
+  "type": "Exercise",
+  "number": "1.1.4",
+  "title": "",
+  "body": "   (Put the carbon in the middle)      A carbon with a single bond to a hydrogen atom. The carbon also has a triple bond to a nitrogen atom. The nitrogen atom also has a lone pair of electrons.     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-6",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-6",
+  "type": "Exercise",
+  "number": "1.1.5",
+  "title": "",
+  "body": "         Two carbons with a double bond linking them. Each carbon also has 2 single bonds to 2 different hydrogen atoms.     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-7",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-7",
+  "type": "Exercise",
+  "number": "1.1.6",
+  "title": "",
+  "body": "         A carbon with a single bond to a hydrogen. That carbon also has a double bond to an oxygen. That oxygen has two lone pairs of electrons. The carbon also has a single bond to another oxygen atom. That oxygen has 3 lone pairs of electrons and a negative charge.     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-8",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-8",
+  "type": "Exercise",
+  "number": "1.1.7",
+  "title": "",
+  "body": "         A carbon atom with 4 chlorines around it. Each chlorine is bound to the carbon by a single bond. Each chlorine has 3 lone pairs of electrons around it.     "
+},
+{
+  "id": "exercises-hydrocarbons1-1-9",
+  "level": "2",
+  "url": "sec-hydrocarbons1.html#exercises-hydrocarbons1-1-9",
+  "type": "Exercise",
+  "number": "1.1.8",
+  "title": "",
+  "body": "         Phosphorous with 4 oxygens around it. There are 2 bonds to one of the oxygens and a single bond to the other three. The doubly bound oxygen has 2 lone pairs of the electrons. The singly bound oxygen atoms have 3 lone pairs of electrons and a negative charge     "
 },
 {
   "id": "sec-hydrocarbons2",
@@ -472,6 +535,24 @@ var ptx_lunr_docs = [
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
+  "type": "Appendix",
+  "number": "A",
+  "title": "Definitions",
+  "body": " Definitions      Valence electrons Electrons that are in the outer shell of an atom. They usually form bonds to other atoms or exist as lone pairs of electrons on that atom.     "
+},
+{
+  "id": "backmatter-2-2",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Valence electrons "
+},
+{
+  "id": "backmatter-3",
+  "level": "1",
+  "url": "backmatter-3.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
