@@ -20,7 +20,6 @@
 				<p>
 					Complete the table below using your knowledge of the octet rule and the structures that you drew in Exercise 1. <term>This table is VERY important and you should start trying to use this to draw chemical structures.</term>
 				</p>
-			</statement>
 			<table>
 		<title></title>
 <col width="21%" />
@@ -93,10 +92,7 @@
 			<cell halign="left" bottom="medium"></cell>
 		</row>
 		<row class="odd">
-			<cell halign="left">Any halogen
-	<p>
-		(if they obey the octet rule)
-	</p></cell>
+			<cell halign="left">Any halogen (if they obey the octet rule)</cell>
 			<cell halign="left"></cell>
 			<cell halign="left">0</cell>
 			<cell halign="left"></cell>
@@ -124,7 +120,7 @@
 			<cell halign="left" bottom="major"></cell>
 		</row>
 		</tabular>
-	</table>
+	</table></statement>
 
 <answer>
 	<p>
@@ -200,9 +196,7 @@
 			<cell halign="left" bottom="medium">3</cell>
 		</row>
 		<row class="odd">
-			<cell halign="left">Any halogen
-		<p>(if they obey the octet rule)
-	</p></cell>
+			<cell halign="left">Any halogen (if they obey the octet rule)</cell>
 			<cell halign="left">7</cell>
 			<cell halign="left">0</cell>
 			<cell halign="left">1</cell>
