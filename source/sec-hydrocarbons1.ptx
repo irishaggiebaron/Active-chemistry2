@@ -3,7 +3,7 @@
 <section xml:id="sec-hydrocarbons1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Review of Lewis structures</title>
 
-  <p><term>Summary:</term></p>
+ 
 
 
   <p>
@@ -58,7 +58,7 @@
 	</blockquote>
 
 	<p>
-		To help with these steps, recall that <term><xref definition="def-valenceelectrons" text="custom">valence electrons</xref></term> are those electrons in the outer shell of an atom. The number of valence electrons can be determined by determining the main group number that the element belongs to (or alternatively by counting the number of tall columns in the periodic table from left to right). We also need to recall that if an atom has a formal positive charge, then that number of electrons must be subtracted from the total; conversely for each negative charge an electron must be added to the total.
+		To help with these steps, recall that <term><xref ref="def-valenceelectrons" text="custom">valence electrons</xref></term> are those electrons in the outer shell of an atom. The number of valence electrons can be determined by determining the main group number that the element belongs to (or alternatively by counting the number of tall columns in the periodic table from left to right). We also need to recall that if an atom has a formal positive charge, then that number of electrons must be subtracted from the total; conversely for each negative charge an electron must be added to the total.
 	</p>
 
 	<p>
