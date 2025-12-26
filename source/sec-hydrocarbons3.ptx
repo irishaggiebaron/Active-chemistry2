@@ -111,7 +111,7 @@
 		<exercise>
 			<statement>
 				<p>
-					<image source="cyclopbutane.png">
+					<image source="c4h8.png">
 						<shortdescription>An alkane ring with 4 carbon atoms</shortdescription>
 					</image>
 				</p>
@@ -125,7 +125,7 @@
 		<exercise>
 			<statement>
 				<p>
-					<image source="propane.png">
+					<image source="c3h8.png">
 						<shortdescription>An alkane with three carbons in a line</shortdescription>
 					</image>
 				</p>
@@ -137,7 +137,7 @@
 		<exercise>
 			<statement>
 				<p>
-					<image source="heptane.png">
+					<image source="c7h16.png">
 						<shortdescription>An alkane with 7 carbons in a row</shortdescription>
 					</image>
 				</p>
@@ -165,7 +165,7 @@
 			</statement>
 			<answer>
 				<p>
-					<image source="hexane.png">
+					<image source="hexane-lewis.png">
 						<shortdescription>An alkane with 6 carbons in a line</shortdescription>
 					</image>
 				</p>
@@ -179,7 +179,7 @@
 			</statement>
 			<answer>
 				<p>
-					<image source="octane.png">
+					<image source="octane-lewis.png">
 						<shortdescription>An alkane with 8 carbons in a line</shortdescription>
 					</image>
 				</p>
@@ -193,7 +193,7 @@
 			</statement>
 			<answer>
 				<p>
-					<image source="ethane.png">
+					<image source="ethane-lewis.png">
 						<shortdescription>An alkane with 2 carbons in a line</shortdescription>
 					</image>
 				</p>
@@ -207,7 +207,7 @@
 			</statement>
 			<answer>
 				<p>
-					<image source="cyclopropane.png">
+					<image source="cyclopropane-lewis.png">
 						<shortdescription>An alkane ring with 3 carbons</shortdescription>
 					</image>
 				</p>
