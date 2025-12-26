@@ -30,11 +30,11 @@
 <col width="20%" />
 		<tabular>
 		<row header="yes">
-			<cell halign="left">Atom</cell>
-			<cell halign="left">Number of valence electrons</cell>
-			<cell halign="left">Charge</cell>
-			<cell halign="left">Number of bonds</cell>
-			<cell halign="left">Number of lone pairs of electrons</cell>
+			<cell halign="left" bottom="major">Atom</cell>
+			<cell halign="left" bottom="major">Number of valence electrons</cell>
+			<cell halign="left" bottom="major">Charge</cell>
+			<cell halign="left" bottom="major">Number of bonds</cell>
+			<cell halign="left" bottom="major">Number of lone pairs of electrons</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">H</cell>
@@ -51,18 +51,18 @@
 			<cell halign="left"></cell>
 		</row>
 		<row class="odd">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">+1</cell>
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">+1</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
 		</row>
 		<row class="even">
-			<cell halign="left">C</cell>
-			<cell halign="left"></cell>
-			<cell halign="left">0</cell>
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
+			<cell halign="left" bottom="medium">C</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">0</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">N</cell>
@@ -72,11 +72,11 @@
 			<cell halign="left"></cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">+1</cell>
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">+1</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">O</cell>
@@ -86,17 +86,14 @@
 			<cell halign="left"></cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">-1</cell>
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">-1</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
 		</row>
 		<row class="odd">
-			<cell halign="left">	<p>
-		Any halogen
-	</p>
-
+			<cell halign="left">Any halogen
 	<p>
 		(if they obey the octet rule)
 	</p></cell>
@@ -106,11 +103,11 @@
 			<cell halign="left"></cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">-1</cell>
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">-1</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">S (if it’s obeying the octet rule)</cell>
@@ -120,11 +117,11 @@
 			<cell halign="left"></cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">-1</cell>
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major">-1</cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major"></cell>
 		</row>
 		</tabular>
 	</table>
@@ -140,11 +137,11 @@
 <col width="20%" />
 		<tabular>
 		<row header="yes">
-			<cell halign="left">Atom</cell>
-			<cell halign="left">Number of valence electrons</cell>
-			<cell halign="left">Charge</cell>
-			<cell halign="left">Number of bonds</cell>
-			<cell halign="left">Number of lone pairs of electrons</cell>
+			<cell halign="left" bottom="major">Atom</cell>
+			<cell halign="left" bottom="major">Number of valence electrons</cell>
+			<cell halign="left" bottom="major">Charge</cell>
+			<cell halign="left" bottom="major">Number of bonds</cell>
+			<cell halign="left" bottom="major">Number of lone pairs of electrons</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">H</cell>
@@ -161,18 +158,18 @@
 			<cell halign="left">1</cell>
 		</row>
 		<row class="odd">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">+1</cell>
-			<cell halign="left">0</cell>
-			<cell halign="left">0</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">+1</cell>
+			<cell halign="left" bottom="medium">0</cell>
+			<cell halign="left" bottom="medium">0</cell>
 		</row>
 		<row class="even">
-			<cell halign="left">C</cell>
-			<cell halign="left">4</cell>
-			<cell halign="left">0</cell>
-			<cell halign="left">4</cell>
-			<cell halign="left">0</cell>
+			<cell halign="left" bottom="medium">C</cell>
+			<cell halign="left" bottom="medium">4</cell>
+			<cell halign="left" bottom="medium">0</cell>
+			<cell halign="left" bottom="medium">4</cell>
+			<cell halign="left" bottom="medium">0</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">N</cell>
@@ -182,11 +179,11 @@
 			<cell halign="left">1</cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">+1</cell>
-			<cell halign="left">4</cell>
-			<cell halign="left">0</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">+1</cell>
+			<cell halign="left" bottom="medium">4</cell>
+			<cell halign="left" bottom="medium">0</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">O</cell>
@@ -196,11 +193,11 @@
 			<cell halign="left">2</cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">-1</cell>
-			<cell halign="left">1</cell>
-			<cell halign="left">3</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">-1</cell>
+			<cell halign="left" bottom="medium">1</cell>
+			<cell halign="left" bottom="medium">3</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">Any halogen
@@ -212,11 +209,11 @@
 			<cell halign="left">3</cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">-1</cell>
-			<cell halign="left">0</cell>
-			<cell halign="left">4</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">-1</cell>
+			<cell halign="left" bottom="medium">0</cell>
+			<cell halign="left" bottom="medium">4</cell>
 		</row>
 		<row class="odd">
 			<cell halign="left">S (if it’s obeying the octet rule)</cell>
@@ -226,11 +223,11 @@
 			<cell halign="left">2</cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">-1</cell>
-			<cell halign="left">1</cell>
-			<cell halign="left">3</cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major">-1</cell>
+			<cell halign="left" bottom="major">1</cell>
+			<cell halign="left" bottom="major">3</cell>
 		</row>
 		</tabular>
 	</table>
