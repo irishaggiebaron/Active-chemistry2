@@ -6,7 +6,7 @@
 
   <book xml:id="active-chemistry-2ndsemester">
     <title>Active Chemistry 2</title>
-    <subtitle>An 1ctive Approach to Introductory Organic and Biochemistry</subtitle>
+    <subtitle>An Active Approach to Introductory Organic and Biochemistry</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
