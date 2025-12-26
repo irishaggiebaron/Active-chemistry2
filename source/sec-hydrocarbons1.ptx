@@ -73,4 +73,45 @@
 		An atom “owns” all of the lone pairs of electrons on itself as well as one electron in each bond around it.
 	</p>
 
+	<exercises xml:id="exercises-hydrocarbons1">
+		<exercisegroup>
+		
+			<introduction>
+				<p>
+					Draw Lewis dot structures for all of the molecules indicated below.  Show all lone pairs of electrons in your structures.
+				</p>
+			</introduction>
+		
+			<exercise>
+				<statement>
+					<p>
+						<m>CH_4</m>
+					</p>
+				</statement>
+				<answer>
+					<p>
+						<image source="methane-lewis.png">
+							<description>A carbon with 4 lines that join to 4 hydrogens that surround it</description>
+						</image>
+					</p>
+				</answer>
+			</exercise>
+			<exercise>
+				<statement>
+					<p>
+						<m>NH_3</m>
+					</p>
+				</statement>
+				<answer>
+					<p>
+						<image source="ammonia-lewis.png">
+							<description>A nitrogen with three lines joining to 3 different hydrogen atoms. There is also a lone pair of electrons on the central nitrogen atom.</description>
+						</image>
+
+					</p>
+				</answer>
+			</exercise>
+		
+		</exercisegroup>
+	</exercises>
 </section>
