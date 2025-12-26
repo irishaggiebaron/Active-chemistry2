@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Common patterns in organic and biological chemistry",
-  "body": " Common patterns in organic and biological chemistry   Common patterns in organic and biological chemistry   In this course, we are learning about organic chemistry and biological chemistry . Organic chemistry is the chemistry of carbon containing molecules whereas biological chemistry focuses on the chemicals and reactions that are necessary for the existence of life. Carbon plays a central role in biological chemistry because of its versatility, which you’ll explore more in the exercise below.  Organic and biological molecules are often MUCH more complex than the simple covalent compounds that you drew structures of above. It’d be very nice to have a more straightforward way of determining the structure of a molecule than what we’ve already learned. Thankfully, Lewis structures contain a number of important patterns that we can take advantage of in order to correctly draw molecular structures much more quickly and easily than by using the steps covered previously. In the next set of exercises, you’ll establish some of these patterns.  "
+  "body": " Common patterns in organic and biological chemistry   Common patterns in organic and biological chemistry   In this course, we are learning about organic chemistry and biological chemistry . Organic chemistry is the chemistry of carbon containing molecules whereas biological chemistry focuses on the chemicals and reactions that are necessary for the existence of life. Carbon plays a central role in biological chemistry because of its versatility, which you’ll explore more in the exercise below.  Organic and biological molecules are often MUCH more complex than the simple covalent compounds that you drew structures of above. It’d be very nice to have a more straightforward way of determining the structure of a molecule than what we’ve already learned. Thankfully, Lewis structures contain a number of important patterns that we can take advantage of in order to correctly draw molecular structures much more quickly and easily than by using the steps covered previously. In the next set of exercises, you’ll establish some of these patterns.     Complete the table below using your knowledge of the octet rule and the structures that you drew in Exercise 1. This table is VERY important and you should start trying to use this to draw chemical structures.            Atom  Number of valence electrons  Charge  Number of bonds  Number of lone pairs of electrons    H   0        -1        +1      C   0      N   0        +1      O   0        -1      Any halogen (if they obey the octet rule)   0        -1      S (if it’s obeying the octet rule)   0        -1                  Atom  Number of valence electrons  Charge  Number of bonds  Number of lone pairs of electrons    H  1  0  1  0      -1  0  1      +1  0  0    C  4  0  4  0    N  5  0  3  1      +1  4  0    O  6  0  2  2      -1  1  3    Any halogen (if they obey the octet rule)  7  0  1  3      -1  0  4    S (if it’s obeying the octet rule)  6  0  2  2      -1  1  3          Looking at the “number of bonds” column for carbon, what do you notice that is special about carbon compared to the other neutral (ie. zero charge) elements in this chart? How does this make carbon more versatile than any other element?    Carbon can make 4 bonds, which is more than any other element in the table. This allows carbons to form a larger variety of structures than other elements      Try drawing the Lewis structures of the molecules shown below using the table you just completed            A CH3 group bound to an SH group               Lewis structure of formaldehyde               Lewis structure of hydrogen peroxide               Lewis structure possibilities for C2H2F2        "
 },
 {
   "id": "sec-hydrocarbons2-2",
@@ -136,13 +136,67 @@ var ptx_lunr_docs = [
   "body": "organic chemistry biological chemistry "
 },
 {
+  "id": "exercises-hydrocarbons2-1",
+  "level": "2",
+  "url": "sec-hydrocarbons2.html#exercises-hydrocarbons2-1",
+  "type": "Exercise",
+  "number": "1.2.1",
+  "title": "",
+  "body": "  Complete the table below using your knowledge of the octet rule and the structures that you drew in Exercise 1. This table is VERY important and you should start trying to use this to draw chemical structures.            Atom  Number of valence electrons  Charge  Number of bonds  Number of lone pairs of electrons    H   0        -1        +1      C   0      N   0        +1      O   0        -1      Any halogen (if they obey the octet rule)   0        -1      S (if it’s obeying the octet rule)   0        -1                  Atom  Number of valence electrons  Charge  Number of bonds  Number of lone pairs of electrons    H  1  0  1  0      -1  0  1      +1  0  0    C  4  0  4  0    N  5  0  3  1      +1  4  0    O  6  0  2  2      -1  1  3    Any halogen (if they obey the octet rule)  7  0  1  3      -1  0  4    S (if it’s obeying the octet rule)  6  0  2  2      -1  1  3       "
+},
+{
+  "id": "exercises-hydrocarbons2-2",
+  "level": "2",
+  "url": "sec-hydrocarbons2.html#exercises-hydrocarbons2-2",
+  "type": "Exercise",
+  "number": "1.2.2",
+  "title": "",
+  "body": "  Looking at the “number of bonds” column for carbon, what do you notice that is special about carbon compared to the other neutral (ie. zero charge) elements in this chart? How does this make carbon more versatile than any other element?    Carbon can make 4 bonds, which is more than any other element in the table. This allows carbons to form a larger variety of structures than other elements   "
+},
+{
+  "id": "exercises-hydrocarbons2-3-2",
+  "level": "2",
+  "url": "sec-hydrocarbons2.html#exercises-hydrocarbons2-3-2",
+  "type": "Exercise",
+  "number": "1.2.3",
+  "title": "",
+  "body": "         A CH3 group bound to an SH group     "
+},
+{
+  "id": "exercises-hydrocarbons2-3-3",
+  "level": "2",
+  "url": "sec-hydrocarbons2.html#exercises-hydrocarbons2-3-3",
+  "type": "Exercise",
+  "number": "1.2.4",
+  "title": "",
+  "body": "         Lewis structure of formaldehyde     "
+},
+{
+  "id": "exercises-hydrocarbons2-3-4",
+  "level": "2",
+  "url": "sec-hydrocarbons2.html#exercises-hydrocarbons2-3-4",
+  "type": "Exercise",
+  "number": "1.2.5",
+  "title": "",
+  "body": "         Lewis structure of hydrogen peroxide     "
+},
+{
+  "id": "exercises-hydrocarbons2-3-5",
+  "level": "2",
+  "url": "sec-hydrocarbons2.html#exercises-hydrocarbons2-3-5",
+  "type": "Exercise",
+  "number": "1.2.6",
+  "title": "",
+  "body": "         Lewis structure possibilities for C2H2F2     "
+},
+{
   "id": "sec-hydrocarbons3",
   "level": "1",
   "url": "sec-hydrocarbons3.html",
   "type": "Section",
   "number": "1.3",
   "title": "Organic chemistry, hydrocarbons, and alkanes",
-  "body": " Organic chemistry, hydrocarbons, and alkanes  Summary:   Organic chemistry, hydrocarbons, and alkanes   Classification of organic molecules:  The distinction between alkanes, alkenes, alkynes, and aromatics has to deal with the types of bonds between the carbon atoms and their arrangement. Alkanes are the simplest type of hydrocarbon because they contain exclusively single bonds between the carbon atoms. Each carbon in every organic molecule needs to make 4 bonds . In a hydrocarbon, these bonds are either to another carbon atom or to a hydrogen atom. When there are only carbon-carbon single bonds in a hydrocarbon, the number of bonds to hydrogen atoms is higher than if there were double bonds or triple bonds (see the example below illustrating this for two carbon hydrocarbons. Since alkanes contain only C-C single bonds, they have the maximum number of hydrogen atoms and are thus said to be saturated with hydrogen atoms and are thus also called saturated hydrocarbons . Hydrocarbons that contain double and triple bonds contain less than the maximum number of hydrogen atoms and are thus called unsaturated hydrocarbons . These same definitions will apply in a later chapter when we discuss saturated and unsaturated fats.  Alkane:       Alkene:       Alkyne:       Now we are going to begin the process of naming organic molecules by learning how to name unbranched alkanes. This information is foundational for naming every other type of organic molecule and MUST be mastered early in this course. We name alkanes by counting the number of carbon atoms in the chain. The number of carbon atoms determines the prefix that will be used for the molecule name. See the figure below for the list of prefixes that must be memorized. The suffix used tells us the type of organic molecule that we’re naming. In the case of alkanes, the suffix is -ane. So a two carbon alkane would have the prefix eth- and the suffix -ane, creating the name ethane. Alkanes can occur as rings as well. In this course, we’ll only deal with naming compounds with a single ring. To name these compounds, we count the number of carbons and assign the appropriate prefix as before along with the suffix -ane. We also need to add an extra prefix of cyclo- at the beginning to indicate that it’s a ring. So a four carbon alkane ring would be called cyclobutene.        Number of carbon atoms  Prefix    1  meth    2  eth    3  prop    4  but    5  pent    6  hex    7  hept    8  oct    9  non    10  dec     "
+  "body": " Organic chemistry, hydrocarbons, and alkanes   Organic chemistry, hydrocarbons, and alkanes   Classification of organic molecules:   Hydrocarbons are the simplest organic molecules. They consist of exclusively carbon and hydrogen atoms. Alkanes are the simplest type of hydrocarbon because they contain exclusively single bonds between the carbon atoms. Each carbon in every organic molecule needs to make 4 bonds . In a hydrocarbon, these bonds are either to another carbon atom or to a hydrogen atom. When there are only carbon-carbon single bonds in a hydrocarbon, the number of bonds to hydrogen atoms is higher than if there were double bonds or triple bonds (see the example below illustrating this for two carbon hydrocarbons. Since alkanes contain only C-C single bonds, they have the maximum number of hydrogen atoms and are thus said to be saturated with hydrogen atoms and are thus also called saturated hydrocarbons . Hydrocarbons that contain double and triple bonds contain less than the maximum number of hydrogen atoms and are thus called unsaturated hydrocarbons . These same definitions will apply in a later chapter when we discuss saturated and unsaturated fats.  An example of an alkane ( ) is shown below:    Lewis structure of ethane   Example of an alkane   Examples of unsaturated hydrocarbons are shown below. An alkene ( ) and an alkyne ( ) are shown.     Lewis structure of ethene    Lewis structure of ethyne    Examples of unsaturated hydrocarbons.   Now we are going to begin the process of naming organic molecules by learning how to name unbranched alkanes. This information is foundational for naming every other type of organic molecule and MUST be mastered early in this course. We name alkanes by counting the number of carbon atoms in the chain. The number of carbon atoms determines the prefix that will be used for the molecule name. See the figure below for the list of prefixes that must be memorized. The suffix used tells us the type of organic molecule that we’re naming. In the case of alkanes, the suffix is -ane. So a two carbon alkane would have the prefix eth- and the suffix -ane, creating the name ethane. Alkanes can occur as rings as well. In this course, we’ll only deal with naming compounds with a single ring. To name these compounds, we count the number of carbons and assign the appropriate prefix as before along with the suffix -ane. We also need to add an extra prefix of cyclo- at the beginning to indicate that it’s a ring. So a four carbon alkane ring would be called cyclobutene.        Number of carbon atoms  Prefix    1  meth    2  eth    3  prop    4  but    5  pent    6  hex    7  hept    8  oct    9  non    10  dec        Name the following compounds       An alkane ring with 4 carbon atoms      cyclobutane        An alkane with three carbons in a line      propane        An alkane with 7 carbons in a row      heptane       Draw the Lewis structure for the following compounds and determine their chemical formulas     Hexane      An alkane with 6 carbons in a line        Octane      An alkane with 8 carbons in a line        Ethane      An alkane with 2 carbons in a line        Cyclopropane      An alkane ring with 3 carbons        "
 },
 {
   "id": "sec-hydrocarbons3-2",
@@ -151,61 +205,115 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-hydrocarbons3-3",
-  "level": "2",
-  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
   "body": "Organic chemistry, hydrocarbons, and alkanes "
 },
 {
-  "id": "sec-hydrocarbons3-5",
+  "id": "sec-hydrocarbons3-4",
   "level": "2",
-  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-5",
+  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Alkanes saturated hydrocarbons unsaturated hydrocarbons "
+  "body": "Hydrocarbons Alkanes saturated hydrocarbons unsaturated hydrocarbons "
+},
+{
+  "id": "sec-hydrocarbons3-6",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-6",
+  "type": "Figure",
+  "number": "1.3.1",
+  "title": "",
+  "body": "  Lewis structure of ethane   Example of an alkane  "
 },
 {
   "id": "sec-hydrocarbons3-7",
   "level": "2",
   "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-7",
-  "type": "Figure",
-  "number": "1.3.1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": "   "
+  "body": "alkene alkyne "
 },
 {
-  "id": "sec-hydrocarbons3-9",
+  "id": "sec-hydrocarbons3-8",
   "level": "2",
-  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-9",
+  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-8",
   "type": "Figure",
   "number": "1.3.2",
   "title": "",
-  "body": "   "
+  "body": "   Lewis structure of ethene    Lewis structure of ethyne    Examples of unsaturated hydrocarbons.  "
 },
 {
-  "id": "sec-hydrocarbons3-11",
+  "id": "sec-hydrocarbons3-10",
   "level": "2",
-  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-11",
-  "type": "Figure",
+  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-10",
+  "type": "Table",
   "number": "1.3.3",
   "title": "",
-  "body": "   "
+  "body": "      Number of carbon atoms  Prefix    1  meth    2  eth    3  prop    4  but    5  pent    6  hex    7  hept    8  oct    9  non    10  dec    "
 },
 {
-  "id": "sec-hydrocarbons3-13",
+  "id": "exercises-hydrocarbons3-1-2",
   "level": "2",
-  "url": "sec-hydrocarbons3.html#sec-hydrocarbons3-13",
-  "type": "Table",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-1-2",
+  "type": "Exercise",
+  "number": "1.3.1",
+  "title": "",
+  "body": "    An alkane ring with 4 carbon atoms      cyclobutane   "
+},
+{
+  "id": "exercises-hydrocarbons3-1-3",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-1-3",
+  "type": "Exercise",
+  "number": "1.3.2",
+  "title": "",
+  "body": "    An alkane with three carbons in a line      propane   "
+},
+{
+  "id": "exercises-hydrocarbons3-1-4",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-1-4",
+  "type": "Exercise",
+  "number": "1.3.3",
+  "title": "",
+  "body": "    An alkane with 7 carbons in a row      heptane   "
+},
+{
+  "id": "exercises-hydrocarbons3-2-2",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-2-2",
+  "type": "Exercise",
   "number": "1.3.4",
   "title": "",
-  "body": "      Number of carbon atoms  Prefix    1  meth    2  eth    3  prop    4  but    5  pent    6  hex    7  hept    8  oct    9  non    10  dec    "
+  "body": "  Hexane      An alkane with 6 carbons in a line     "
+},
+{
+  "id": "exercises-hydrocarbons3-2-3",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-2-3",
+  "type": "Exercise",
+  "number": "1.3.5",
+  "title": "",
+  "body": "  Octane      An alkane with 8 carbons in a line     "
+},
+{
+  "id": "exercises-hydrocarbons3-2-4",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-2-4",
+  "type": "Exercise",
+  "number": "1.3.6",
+  "title": "",
+  "body": "  Ethane      An alkane with 2 carbons in a line     "
+},
+{
+  "id": "exercises-hydrocarbons3-2-5",
+  "level": "2",
+  "url": "sec-hydrocarbons3.html#exercises-hydrocarbons3-2-5",
+  "type": "Exercise",
+  "number": "1.3.7",
+  "title": "",
+  "body": "  Cyclopropane      An alkane ring with 3 carbons     "
 },
 {
   "id": "sec-hydrocarbons4",
@@ -538,16 +646,88 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions      Valence electrons Electrons that are in the outer shell of an atom. They usually form bonds to other atoms or exist as lone pairs of electrons on that atom.     "
+  "body": " Definitions  Chapter 1      Valence electrons Electrons that are in the outer shell of an atom. They usually form bonds to other atoms or exist as lone pairs of electrons on that atom.         Organic chemistry Chemistry of compounds that include carbon.         Biological chemistry Chemistry and chemical compounds that occur in living organisms.         Hydrocarbons A hydrocarbon is a molecule that contains only carbon and hydrogen atoms.         Alkane A hydrocarbon that contains only carbon-carbon single bonds.         Saturated hydrocarbons A hydrocarbon that contains the maximum amount of hydrogen atoms. An alkane.         Unsaturated hydrocarbons A hydrocarbon that contains less than the maximum number of hydrogen atoms. This is because the structure contains carbon-carbon double or triple bonds.         Alkene A hydrocarbon that contains at least one carbon-carbon double bond         Alkyne A hydrocarbon that contains at least one carbon-carbon triple bond.     "
 },
 {
-  "id": "backmatter-2-2",
+  "id": "backmatter-2-3",
   "level": "2",
-  "url": "backmatter-2.html#backmatter-2-2",
+  "url": "backmatter-2.html#backmatter-2-3",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Valence electrons "
+},
+{
+  "id": "backmatter-2-4",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Organic chemistry "
+},
+{
+  "id": "backmatter-2-5",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Biological chemistry "
+},
+{
+  "id": "backmatter-2-6",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Hydrocarbons "
+},
+{
+  "id": "backmatter-2-7",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Alkane "
+},
+{
+  "id": "backmatter-2-8",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Saturated hydrocarbons "
+},
+{
+  "id": "backmatter-2-9",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Unsaturated hydrocarbons "
+},
+{
+  "id": "backmatter-2-10",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Alkene "
+},
+{
+  "id": "backmatter-2-11",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Alkyne "
 },
 {
   "id": "backmatter-3",
