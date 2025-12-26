@@ -41,7 +41,60 @@
         </statement>
       </definition>
     </p>
-
+     <p>
+        <definition xml:id="def-hydrocarbons">
+        <statement>
+          <p>
+            <term>Hydrocarbons</term> A hydrocarbon is a molecule that contains only carbon and hydrogen atoms. 
+          </p>
+        </statement>
+      </definition>
+    </p>  
+    <p>
+        <definition xml:id="def-alkanes">
+        <statement>
+          <p>
+            <term>Alkane</term> A hydrocarbon that contains only carbon-carbon single bonds. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+       <p>
+        <definition xml:id="def-saturatedhydrocarbons">
+        <statement>
+          <p>
+            <term>Saturated hydrocarbons</term> A hydrocarbon that contains the maximum amount of hydrogen atoms.  An alkane. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+       <p>
+        <definition xml:id="def-unsaturatedhydrocarbons">
+        <statement>
+          <p>
+            <term>Unsaturated hydrocarbons</term> A hydrocarbon that contains less than the maximum number of hydrogen atoms.  This is because the structure contains carbon-carbon double or triple bonds. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+     <p>
+        <definition xml:id="def-alkene">
+        <statement>
+          <p>
+            <term>Alkene</term> A hydrocarbon that contains at least one carbon-carbon double bond
+          </p>
+        </statement>
+      </definition>
+    </p>
+ <p>
+        <definition xml:id="def-alkyne">
+        <statement>
+          <p>
+            <term>Alkyne</term> A hydrocarbon that contains at least one carbon-carbon triple bond. 
+          </p>
+        </statement>
+      </definition>
+    </p>
   </appendix>
 
   <!-- <index> <title>Index</title> <index-list/> </index> -->

@@ -12,37 +12,33 @@
 	</p>
 
 	<p>
-		The distinction between alkanes, alkenes, alkynes, and aromatics has to deal with the types of bonds between the carbon atoms and their arrangement. <term><xref ref="def-alkanes" text="custom">Alkanes</xref></term> are the simplest type of hydrocarbon because they contain exclusively single bonds between the carbon atoms. <em>Each carbon in every organic molecule needs to make 4 bonds</em>. In a hydrocarbon, these bonds are either to another carbon atom or to a hydrogen atom. When there are only carbon-carbon single bonds in a hydrocarbon, the number of bonds to hydrogen atoms is higher than if there were double bonds or triple bonds (see the example below illustrating this for two carbon hydrocarbons. Since alkanes contain only C-C single bonds, they have the maximum number of hydrogen atoms and are thus said to be saturated with hydrogen atoms and are thus also called <term><xref ref="def-saturatedhydrocarbons" text="custom">saturated hydrocarbons</xref></term>. Hydrocarbons that contain double and triple bonds contain less than the maximum number of hydrogen atoms and are thus called <term><xref ref="def-unsaturatedhydrocarbons" text="custom">unsaturated hydrocarbons</xref></term>. These same definitions will apply in a later chapter when we discuss saturated and unsaturated fats.
+		<term><xref ref="def-hydrocarbons" text="custom">Hydrocarbons</xref></term> are the simplest organic molecules. They consist of exclusively carbon and hydrogen atoms.  <term><xref ref="def-alkanes" text="custom">Alkanes</xref></term> are the simplest type of hydrocarbon because they contain exclusively single bonds between the carbon atoms. <em>Each carbon in every organic molecule needs to make 4 bonds</em>. In a hydrocarbon, these bonds are either to another carbon atom or to a hydrogen atom. When there are only carbon-carbon single bonds in a hydrocarbon, the number of bonds to hydrogen atoms is higher than if there were double bonds or triple bonds (see the example below illustrating this for two carbon hydrocarbons. Since alkanes contain only C-C single bonds, they have the maximum number of hydrogen atoms and are thus said to be saturated with hydrogen atoms and are thus also called <term><xref ref="def-saturatedhydrocarbons" text="custom">saturated hydrocarbons</xref></term>. Hydrocarbons that contain double and triple bonds contain less than the maximum number of hydrogen atoms and are thus called <term><xref ref="def-unsaturatedhydrocarbons" text="custom">unsaturated hydrocarbons</xref></term>. These same definitions will apply in a later chapter when we discuss saturated and unsaturated fats.
 	</p>
 
 	<p>
-		Alkane: <m>C_{2}H_{6}</m>
+		An example of an alkane (<m>C_{2}H_{6}</m>) is shown below:
 	</p>
 
 	<figure>
-	<image source="c2h6.png">
+	<image source="c2h6.png" width="30%">
 		<description>Lewis structure of ethane</description>
 	</image>
+	<caption>Example of an alkane</caption>
 </figure>
 
 	<p>
-		Alkene: <m>C_{2}H_{4}</m>
+		Examples of unsaturated hydrocarbons are shown below.  An <term><xref ref="def-alkene" text="custom">alkene</xref></term> (<m>C_{2}H_{4}</m>) and an <term><xref ref="def-alkyne" text="custom">alkyne</xref></term> (<m>C_2H_2</m>) are shown.
 	</p>
 
 	<figure>
-	<image source="c2h4.png">
+	<image source="c2h4.png" width="30%">
 		<description>Lewis structure of ethene</description>
 		</image>
-</figure>
 
-	<p>
-		Alkyne: <m>C_{2}H_{2}</m>
-	</p>
-
-	<figure>
-	<image source="c2h2.png">
+	<image source="c2h2.png" width="30%">
 		<description>Lewis structure of ethyne</description>
 	</image>
+	<caption>Example of unsaturated hydrocarbons.</caption>
 </figure>
 
 	<p>
