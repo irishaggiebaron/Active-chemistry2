@@ -12,7 +12,18 @@
 
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->
 
-  <!-- <appendix> <title>List of Symbols</title> <notation-list/> </appendix> -->
+  <appendix> <title>Definitions</title>
+    <p>
+        <definition xml:id="def-valenceelectrons">
+        <statement>
+          <p>
+            <term>Valence electrons</term> Electrons that are in the outer shell of an atom.  They usually form bonds to other atoms or exist as lone pairs of electrons on that atom. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+  </appendix>
 
   <!-- <index> <title>Index</title> <index-list/> </index> -->
 
