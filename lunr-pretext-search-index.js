@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Condensed structures and skeletal structures",
-  "body": " Condensed structures and skeletal structures   Chemists are lazy: condensed structures and skeletal structures   In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a condensed structure or a skeletal structure instead of a Lewis structure.  A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:  A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two unshown bonds must be to two hydrogen atoms.  In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.  Decane:  Lewis structure      Condensed structure options:            Skeletal structure      Mixture      "
+  "body": " Condensed structures and skeletal structures   Chemists are lazy: condensed structures and skeletal structures   In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a condensed structure or a skeletal structure instead of a Lewis structure.  A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:  A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two unshown bonds must be to two hydrogen atoms.  In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.  Decane:    A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons   Decane Lewis structure   Condensed structure options:     Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.    Condensed structure options           Skeletal structure of decane     Hybrid skeletal\/condensed structure of decane      Draw the condensed and skeletal structures for the following molecules     Ethane         a single line        Pentane            a zig-zag of 4 connected lines        Nonane            a zig-zag of 8 connected lines        Cyclooctane      An 8 carbon ring shown as 8 connected CH2 groups or as 7 connected lines         Name the following alkanes and provide their chemical formula. Also, write the structure in a different manner than is shown       (for accessibility)      Butane               Pentane        a zig-zag of 4 connected lines          a ring with 7 angles      Cycloheptane   7 groups drawn in a ring with joining lines           Octane          "
 },
 {
   "id": "sec-hydrocarbons4-2",
@@ -343,40 +343,112 @@ var ptx_lunr_docs = [
   "body": "condensed structure skeletal structure "
 },
 {
-  "id": "sec-hydrocarbons4-9",
+  "id": "sec-hydrocarbons4-8",
   "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-9",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-8",
   "type": "Figure",
   "number": "1.4.1",
   "title": "",
-  "body": "   "
+  "body": "  A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons   Decane Lewis structure  "
+},
+{
+  "id": "sec-hydrocarbons4-10",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-10",
+  "type": "Figure",
+  "number": "1.4.2",
+  "title": "",
+  "body": "   Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.    Condensed structure options        "
 },
 {
   "id": "sec-hydrocarbons4-11",
   "level": "2",
   "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-11",
   "type": "Figure",
-  "number": "1.4.2",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "sec-hydrocarbons4-15",
-  "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-15",
-  "type": "Figure",
   "number": "1.4.3",
   "title": "",
-  "body": "   "
+  "body": "  Skeletal structure of decane  "
 },
 {
-  "id": "sec-hydrocarbons4-17",
+  "id": "sec-hydrocarbons4-12",
   "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-17",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-12",
   "type": "Figure",
   "number": "1.4.4",
   "title": "",
-  "body": "   "
+  "body": "  Hybrid skeletal\/condensed structure of decane  "
+},
+{
+  "id": "exercises-hydrocarbons4-1-2",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-1-2",
+  "type": "Exercise",
+  "number": "1.4.1",
+  "title": "",
+  "body": "  Ethane         a single line     "
+},
+{
+  "id": "exercises-hydrocarbons4-1-3",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-1-3",
+  "type": "Exercise",
+  "number": "1.4.2",
+  "title": "",
+  "body": "  Pentane            a zig-zag of 4 connected lines     "
+},
+{
+  "id": "exercises-hydrocarbons4-1-4",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-1-4",
+  "type": "Exercise",
+  "number": "1.4.3",
+  "title": "",
+  "body": "  Nonane            a zig-zag of 8 connected lines     "
+},
+{
+  "id": "exercises-hydrocarbons4-1-5",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-1-5",
+  "type": "Exercise",
+  "number": "1.4.4",
+  "title": "",
+  "body": "  Cyclooctane      An 8 carbon ring shown as 8 connected CH2 groups or as 7 connected lines     "
+},
+{
+  "id": "exercises-hydrocarbons4-2-2",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-2-2",
+  "type": "Exercise",
+  "number": "1.4.5",
+  "title": "",
+  "body": "    (for accessibility)      Butane       "
+},
+{
+  "id": "exercises-hydrocarbons4-2-3",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-2-3",
+  "type": "Exercise",
+  "number": "1.4.6",
+  "title": "",
+  "body": "       Pentane        a zig-zag of 4 connected lines     "
+},
+{
+  "id": "exercises-hydrocarbons4-2-4",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-2-4",
+  "type": "Exercise",
+  "number": "1.4.7",
+  "title": "",
+  "body": "    a ring with 7 angles      Cycloheptane   7 groups drawn in a ring with joining lines   "
+},
+{
+  "id": "exercises-hydrocarbons4-2-5",
+  "level": "2",
+  "url": "sec-hydrocarbons4.html#exercises-hydrocarbons4-2-5",
+  "type": "Exercise",
+  "number": "1.4.8",
+  "title": "",
+  "body": "       Octane       "
 },
 {
   "id": "sec-hydrocarbons5",
