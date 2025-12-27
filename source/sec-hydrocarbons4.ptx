@@ -8,7 +8,7 @@
 	</p>
 
 	<p>
-		In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a <term>condensed structure</term> or a <term>skeletal structure</term> instead of a Lewis structure.
+		In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a <term><xref ref="def-condensedstructure" text="custom">condensed structure</xref></term> or a <term><xref ref="def-skeletalstructure" text="custom">skeletal structure</xref></term> instead of a Lewis structure.
 	</p>
 
 	<p>
@@ -27,13 +27,12 @@
 		Decane:
 	</p>
 
-	<p>
-		Lewis structure
-	</p>
 
 	<figure>
-	<image source="media/image7.emf"/>
-		<caption></caption>
+	<image source="decane.png" width="30%">
+		<description>A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons</description>
+	</image>
+	<caption>Decane Lewis structure</caption>
 </figure>
 
 	<p>
@@ -41,9 +40,15 @@
 	</p>
 
 	<figure>
-	<image source="media/image8.emf"/>
-		<caption></caption>
-</figure>
+	<p>
+		
+	
+		<image source="decane-condensed.png" width="35%">
+		<description>Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.</description>
+	</image>
+	</p>
+		<caption>Condensed structure options</caption>
+
 
 	<p>
 		<me>CH_{3}CH_{2}CH_{2}{CH}_{2}CH_{2}CH_{2}CH_{2}CH_{2}CH_{2}CH_{3}</me>
@@ -52,24 +57,178 @@
 	<p>
 		<me>CH_{3}\left( CH_{2} \right)_{8}CH_{3}</me>
 	</p>
-
-	<p>
-		Skeletal structure
-	</p>
-
-	<figure>
-	<image source="media/image9.emf"/>
-		<caption></caption>
 </figure>
 
-	<p>
-		Mixture
-	</p>
+	<figure>
+	<image source="decane-skeletal.png" width="35%"/>
+		<caption>Skeletal structure of decane</caption>
+</figure>
 
 	<figure>
-	<image source="media/image10.emf"/>
-		<caption></caption>
+	<image source="decane-mixture.png" width="35%"/>
+		<caption>Hybrid skeletal/condensed structure of decane</caption>
 </figure>
 
 
+<exercises xml:id="exercises-hydrocarbons4">
+	<exercisegroup>
+	
+		<introduction>
+			<p>
+				Draw the condensed and skeletal structures for the following molecules
+			</p>
+		</introduction>
+	
+		<exercise>
+			<statement>
+				<p>
+					Ethane
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>CH_3CH_3</m>
+				</p>
+				<p>
+					<image source="ethane-skeletal.png" width="40%">
+						<shortdescription>a single line</shortdescription>
+					</image>
+				</p>
+			</answer>
+		</exercise>
+			<exercise>
+			<statement>
+				<p>
+					Pentane
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>CH_3(CH_2)_3CH_3</m>
+				</p>
+				<p>
+					<m>CH_3CH_2CH_2CH_2CH_3</m>
+				</p>
+				<p>
+					<image source="pentane-skeletal.png" width="30%">
+						<shortdescription>a zig-zag of 4 connected lines</shortdescription>
+					</image>
+				</p>
+			</answer>
+		</exercise>
+				<exercise>
+			<statement>
+				<p>
+					Nonane
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>CH_3(CH_2)_7CH_3</m>
+				</p>
+				<p>
+					<m>CH_3CH_2CH_2CH_2CH_2CH_2CH_2CH_2CH_3</m>
+				</p>
+				<p>
+					<image source="nonane-skeletal.png" width="30%">
+						<shortdescription>a zig-zag of 8 connected lines</shortdescription>
+					</image>
+				</p>
+			</answer>
+		</exercise>
+				<exercise>
+			<statement>
+				<p>
+					Cyclooctane
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<image source="cyclooctane-condensed-skeletal.png" width="35%">
+						<shortdescription>An 8 carbon ring shown as 8 connected CH2 groups or as 7 connected lines</shortdescription>
+					</image>
+				</p>
+			</answer>
+		</exercise>
+	</exercisegroup>
+	<exercisegroup>
+	
+		<introduction>
+			<p>
+				Name the following alkanes and provide their chemical formula. Also, write the
+structure in a different manner than is shown
+			</p>
+		</introduction>
+	
+		<exercise>
+			<statement>
+				<p>
+					<image source="c4h10.png" width="35%">
+						<shortdescription>(for accessibility)</shortdescription>
+					</image>
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Butane <m>C_4H_{10}</m>
+				</p>
+				<p>
+					<m>CH_3(CH_2)_2CH_3</m>
+				</p>
+			</answer>
+		</exercise>
+		<exercise>
+			<statement>
+				<p>
+					<m>CH_3(CH_2)_3CH_3</m>
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Pentane <m>C_5H_{12}</m>
+				</p>
+				<p>
+					<m>CH_3CH_2CH_2CH_2CH_3</m>
+				</p>
+				<p>
+					<image source="pentane-skeletal.png" width="30%">
+						<shortdescription>a zig-zag of 4 connected lines</shortdescription>
+					</image>
+				</p>
+			</answer>
+		</exercise>
+			<exercise>
+			<statement>
+				<p>
+					<image source="ring7.png" width="35%">
+						<shortdescription>a ring with 7 angles</shortdescription>
+					</image>
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Cycloheptane <m>C_7H_{14}</m>
+				</p>
+				<p>
+					7 <m>CH_2</m> groups drawn in a ring with joining lines
+				</p>
+			</answer>
+		</exercise>
+			<exercise>
+			<statement>
+				<p>
+					<m>CH_3(CH_2)_6CH_3</m>
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Octane <m>C_8H_{18}</m>
+				</p>
+				<p>
+					<m>CH_3CH_2CH_2CH_2CH_2CH_2CH_2CH_3</m>
+				</p>
+			</answer>
+		</exercise>
+	</exercisegroup>
+</exercises>
 </section>
