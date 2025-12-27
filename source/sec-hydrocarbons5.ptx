@@ -21,26 +21,20 @@
 <col width="15%" />
 		<tabular>
 		<row header="yes">
-			<cell halign="left">Number of electron groups</cell>
-			<cell halign="left">Electron geometry</cell>
-			<cell halign="left">Number of atoms bound</cell>
-			<cell halign="left">Number of lone pairs of electrons</cell>
-			<cell halign="left">Molecular shape</cell>
-			<cell halign="left">	<p>
-		Bond angles
-	</p>
-
-	<p>
-		(degrees)
-	</p></cell>
+			<cell halign="left" bottom="major">Number of electron groups</cell>
+			<cell halign="left" bottom="major">Electron geometry</cell>
+			<cell halign="left" bottom="major">Number of atoms bound</cell>
+			<cell halign="left" bottom="major">Number of lone pairs of electrons</cell>
+			<cell halign="left" bottom="major">Molecular shape</cell>
+			<cell halign="left" bottom="major">Bond angles	(degrees)</cell>
 		</row>
 		<row class="odd">
-			<cell halign="left">2</cell>
-			<cell halign="left">Linear</cell>
-			<cell halign="left">2</cell>
-			<cell halign="left">0</cell>
-			<cell halign="left">Linear</cell>
-			<cell halign="left">180</cell>
+			<cell halign="left" bottom="medium">2</cell>
+			<cell halign="left" bottom="medium">Linear</cell>
+			<cell halign="left" bottom="medium">2</cell>
+			<cell halign="left" bottom="medium">0</cell>
+			<cell halign="left" bottom="medium">Linear</cell>
+			<cell halign="left" bottom="medium">180</cell>
 		</row>
 		<row class="even">
 			<cell halign="left">3</cell>
@@ -51,12 +45,12 @@
 			<cell halign="left">120</cell>
 		</row>
 		<row class="odd">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">2</cell>
-			<cell halign="left">1</cell>
-			<cell halign="left">Bent</cell>
-			<cell halign="left">&lt;120</cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium"></cell>
+			<cell halign="left" bottom="medium">2</cell>
+			<cell halign="left" bottom="medium">1</cell>
+			<cell halign="left" bottom="medium">Bent</cell>
+			<cell halign="left" bottom="medium">&lt;120</cell>
 		</row>
 		<row class="even">
 			<cell halign="left">4</cell>
@@ -75,12 +69,12 @@
 			<cell halign="left">&lt;109.5</cell>
 		</row>
 		<row class="even">
-			<cell halign="left"></cell>
-			<cell halign="left"></cell>
-			<cell halign="left">2</cell>
-			<cell halign="left">2</cell>
-			<cell halign="left">Bent</cell>
-			<cell halign="left">&lt;109.5</cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major"></cell>
+			<cell halign="left" bottom="major">2</cell>
+			<cell halign="left" bottom="major">2</cell>
+			<cell halign="left" bottom="major">Bent</cell>
+			<cell halign="left" bottom="major">&lt;109.5</cell>
 		</row>
 		</tabular>
 	</table>
@@ -90,8 +84,13 @@
 	</p>
 
 	<figure>
-	<image source="media/image1.emf"/>
-		<caption></caption>
+	<image source="B001.emf" width="30%">
+		<description>A drawing of methane with two bonds drawn as lines, one bond drawn as a dash, and one drawn as a wedge</description>
+		</image>
+		<caption>A 3-dimensional depiction of the tetrahedral structure of methane.  The wedge bond represents a bond that is coming at the viewer.  The dashed line represents a bond that is going away from the viewer</caption>
 </figure>
 
+<exercises xml:id="exercises-hydrocarbons5">
+	
+</exercises>
 </section>
