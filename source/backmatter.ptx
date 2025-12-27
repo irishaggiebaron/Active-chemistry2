@@ -95,6 +95,24 @@
         </statement>
       </definition>
     </p>
+     <p>
+        <definition xml:id="def-condensedstructure">
+        <statement>
+          <p>
+            <term>Condensed structure</term> A depiction of a structure in which all of the atom symbols are shown but some or all of the bonds are omitted.  Carbon atoms and any atoms to them are written as groups within the condensed structure. 
+          </p>
+        </statement>
+      </definition>
+    </p>
+     <p>
+        <definition xml:id="def-skeletalstructure">
+        <statement>
+          <p>
+            <term>Skeletal structure</term> A way of drawing organic molecules in which carbon atoms are shown as the ends of line segments.  The lines show the bonds between the carbon atoms.  Hydrogen atoms that are attached to carbon atoms are omitted from the structures as well because their number is implied from the fact that carbon makes 4 bonds. 
+          </p>
+        </statement>
+      </definition>
+    </p>
   </appendix>
 
   <!-- <index> <title>Index</title> <index-list/> </index> -->

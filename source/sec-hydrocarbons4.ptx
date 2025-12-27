@@ -10,35 +10,15 @@
 	<p>
 		In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a <term><xref ref="def-condensedstructure" text="custom">condensed structure</xref></term> or a <term><xref ref="def-skeletalstructure" text="custom">skeletal structure</xref></term> instead of a Lewis structure.
 	</p>
-
-	<p>
-		A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:
-	</p>
-
-	<p>
-		A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two unshown bonds must be to two hydrogen atoms.
-	</p>
-
-	<p>
-		In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.
-	</p>
-
-	<p>
-		Decane:
-	</p>
-
-
 	<figure>
 	<image source="decane.png" width="30%">
 		<description>A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons</description>
 	</image>
-	<caption>Decane Lewis structure</caption>
+	<caption>A typical Lewis structure of decane</caption>
 </figure>
-
 	<p>
-		Condensed structure options:
+		A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:
 	</p>
-
 	<figure>
 	<p>
 		
@@ -47,7 +27,7 @@
 		<description>Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.</description>
 	</image>
 	</p>
-		<caption>Condensed structure options</caption>
+		<caption>Condensed structure options for decane</caption>
 
 
 	<p>
@@ -58,11 +38,19 @@
 		<me>CH_{3}\left( CH_{2} \right)_{8}CH_{3}</me>
 	</p>
 </figure>
+	<p>
+		A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two bonds (which are not depicted in the drawing) must be to two hydrogen atoms.
+	</p>
 
 	<figure>
 	<image source="decane-skeletal.png" width="35%"/>
 		<caption>Skeletal structure of decane</caption>
 </figure>
+
+	<p>
+		In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.
+	</p>
+
 
 	<figure>
 	<image source="decane-mixture.png" width="35%"/>
