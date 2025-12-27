@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Condensed structures and skeletal structures",
-  "body": " Condensed structures and skeletal structures   Chemists are lazy: condensed structures and skeletal structures   In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a condensed structure or a skeletal structure instead of a Lewis structure.  A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:  A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two unshown bonds must be to two hydrogen atoms.  In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.  Decane:    A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons   Decane Lewis structure   Condensed structure options:     Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.    Condensed structure options           Skeletal structure of decane     Hybrid skeletal\/condensed structure of decane      Draw the condensed and skeletal structures for the following molecules     Ethane         a single line        Pentane            a zig-zag of 4 connected lines        Nonane            a zig-zag of 8 connected lines        Cyclooctane      An 8 carbon ring shown as 8 connected CH2 groups or as 7 connected lines         Name the following alkanes and provide their chemical formula. Also, write the structure in a different manner than is shown       (for accessibility)      Butane               Pentane        a zig-zag of 4 connected lines          a ring with 7 angles      Cycloheptane   7 groups drawn in a ring with joining lines           Octane          "
+  "body": " Condensed structures and skeletal structures   Chemists are lazy: condensed structures and skeletal structures   In organic chemistry we need methods for drawing chemical structures that are as simple and straightforward as possible, particularly once molecules get to be larger and larger. While it is possible to draw the Lewis structure for decane, it is tedious and time consuming to draw its 10 carbon atoms, 22 hydrogens, and 31 bonds. To help with this chemists will typically draw a condensed structure or a skeletal structure instead of a Lewis structure.    A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons   A typical Lewis structure of decane   A condensed structure treats each carbon atom and those atoms directly bound to it as a separate unit. For each of these units, we simply write the chemical formula. Showing single bonds is optional (but is frequently done if the structure branches; more on this in the next lesson). Double and triple bonds are always shown. Also, if there are multiple repeating units that are identical, they are often shown once in parentheses and a subscript is written outside to indicate how many of the units occur. Lone pairs of electrons are often omitted as well. See the examples below:     Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.    Condensed structure options for decane         A skeletal structure takes away the need to write any carbon atoms or the hydrogens that are attached to them. Each carbon atom and its associated hydrogens are implied by the end of a line segment. The lines show the arrangement of the bonds between each of the carbon atoms. How are we supposed to know where the hydrogens are then? We have to remember that carbon always forms 4 bonds. So if a carbon has two bonds to other carbons shown, then the remaining two bonds (which are not depicted in the drawing) must be to two hydrogen atoms.    Skeletal structure of decane   In some cases, the condensed structure drawing method and the skeletal structure drawing method are combined together. See the example below.    Hybrid skeletal\/condensed structure of decane      Draw the condensed and skeletal structures for the following molecules     Ethane         a single line        Pentane            a zig-zag of 4 connected lines        Nonane            a zig-zag of 8 connected lines        Cyclooctane      An 8 carbon ring shown as 8 connected CH2 groups or as 7 connected lines         Name the following alkanes and provide their chemical formula. Also, write the structure in a different manner than is shown       (for accessibility)      Butane               Pentane        a zig-zag of 4 connected lines          a ring with 7 angles      Cycloheptane   7 groups drawn in a ring with joining lines           Octane          "
 },
 {
   "id": "sec-hydrocarbons4-2",
@@ -343,36 +343,36 @@ var ptx_lunr_docs = [
   "body": "condensed structure skeletal structure "
 },
 {
-  "id": "sec-hydrocarbons4-8",
+  "id": "sec-hydrocarbons4-4",
   "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-8",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-4",
   "type": "Figure",
   "number": "1.4.1",
   "title": "",
-  "body": "  A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons   Decane Lewis structure  "
+  "body": "  A typical Lewis structure of decane with 10 carbons linked together in a straight chain and all the hydrogens shown with their bonds to the carbons   A typical Lewis structure of decane  "
 },
 {
-  "id": "sec-hydrocarbons4-10",
+  "id": "sec-hydrocarbons4-6",
   "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-10",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-6",
   "type": "Figure",
   "number": "1.4.2",
   "title": "",
-  "body": "   Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.    Condensed structure options        "
+  "body": "   Decane drawn as a condensed structure with each carbon and its attached hydrogens shown as separate linked groups.    Condensed structure options for decane        "
 },
 {
-  "id": "sec-hydrocarbons4-11",
+  "id": "sec-hydrocarbons4-8",
   "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-11",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-8",
   "type": "Figure",
   "number": "1.4.3",
   "title": "",
   "body": "  Skeletal structure of decane  "
 },
 {
-  "id": "sec-hydrocarbons4-12",
+  "id": "sec-hydrocarbons4-10",
   "level": "2",
-  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-12",
+  "url": "sec-hydrocarbons4.html#sec-hydrocarbons4-10",
   "type": "Figure",
   "number": "1.4.4",
   "title": "",
@@ -718,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions  Chapter 1      Valence electrons Electrons that are in the outer shell of an atom. They usually form bonds to other atoms or exist as lone pairs of electrons on that atom.         Organic chemistry Chemistry of compounds that include carbon.         Biological chemistry Chemistry and chemical compounds that occur in living organisms.         Hydrocarbons A hydrocarbon is a molecule that contains only carbon and hydrogen atoms.         Alkane A hydrocarbon that contains only carbon-carbon single bonds.         Saturated hydrocarbons A hydrocarbon that contains the maximum amount of hydrogen atoms. An alkane.         Unsaturated hydrocarbons A hydrocarbon that contains less than the maximum number of hydrogen atoms. This is because the structure contains carbon-carbon double or triple bonds.         Alkene A hydrocarbon that contains at least one carbon-carbon double bond         Alkyne A hydrocarbon that contains at least one carbon-carbon triple bond.     "
+  "body": " Definitions  Chapter 1      Valence electrons Electrons that are in the outer shell of an atom. They usually form bonds to other atoms or exist as lone pairs of electrons on that atom.         Organic chemistry Chemistry of compounds that include carbon.         Biological chemistry Chemistry and chemical compounds that occur in living organisms.         Hydrocarbons A hydrocarbon is a molecule that contains only carbon and hydrogen atoms.         Alkane A hydrocarbon that contains only carbon-carbon single bonds.         Saturated hydrocarbons A hydrocarbon that contains the maximum amount of hydrogen atoms. An alkane.         Unsaturated hydrocarbons A hydrocarbon that contains less than the maximum number of hydrogen atoms. This is because the structure contains carbon-carbon double or triple bonds.         Alkene A hydrocarbon that contains at least one carbon-carbon double bond         Alkyne A hydrocarbon that contains at least one carbon-carbon triple bond.         Condensed structure A depiction of a structure in which all of the atom symbols are shown but some or all of the bonds are omitted. Carbon atoms and any atoms to them are written as groups within the condensed structure.         Skeletal structure A way of drawing organic molecules in which carbon atoms are shown as the ends of line segments. The lines show the bonds between the carbon atoms. Hydrogen atoms that are attached to carbon atoms are omitted from the structures as well because their number is implied from the fact that carbon makes 4 bonds.     "
 },
 {
   "id": "backmatter-2-3",
@@ -800,6 +800,24 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Alkyne "
+},
+{
+  "id": "backmatter-2-12",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-12",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Condensed structure "
+},
+{
+  "id": "backmatter-2-13",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-13",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Skeletal structure "
 },
 {
   "id": "backmatter-3",
