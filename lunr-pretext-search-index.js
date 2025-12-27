@@ -457,7 +457,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "3D structures and geometry",
-  "body": " 3D structures and geometry   3D structures and geometry; 3D representations on paper   Recall from a previous course that covalent molecules have distinct geometries and shapes that are dictated by the number of electron groups around an atom as well as how many of those groups are atoms. When considering the geometry and shape of a molecule, we very often start with the geometry and shape around an individual atom. We then determine the number of electron groups (either lone pairs of electrons or atoms that are directly bound to the central atom). These electron groups spread out as far as possible in 3-dimensional space. The arrangement of the electron groups is called the electron geometry . The possible electron groups that we’ll encounter in this course are linear (2 groups), trigonal planar (3 groups), and tetrahedral (4 groups). In organic chemistry, by far the most common electron geometry is tetrahedral.            Number of electron groups  Electron geometry  Number of atoms bound  Number of lone pairs of electrons  Molecular shape   Bond angles  (degrees)    2  Linear  2  0  Linear  180    3  Trigonal planar  3  0  Trigonal planar  120      2  1  Bent  <120    4  Tetrahedral  4  0  Tetrahedral  109.5      3  1  Trigonal pyramidal  <109.5      2  2  Bent  <109.5     One challenge in chemistry is being able to draw 3-dimensional objects on a 2-dimensional sheet of paper. To aid in this, we often use wedges and dashes to represent bonds that not in the plane of the paper. Wedges are meant to represent bonds that are pointed toward the viewer. Dashes are meant to represent bonds that are pointed away from the viewer. So a tetrahedral shape for methane can be represented as shown below:      "
+  "body": " 3D structures and geometry   3D structures and geometry; 3D representations on paper   Recall from a previous course that covalent molecules have distinct geometries and shapes that are dictated by the number of electron groups around an atom as well as how many of those groups are atoms. When considering the geometry and shape of a molecule, we very often start with the geometry and shape around an individual atom. We then determine the number of electron groups (either lone pairs of electrons or atoms that are directly bound to the central atom). These electron groups spread out as far as possible in 3-dimensional space. The arrangement of the electron groups is called the electron geometry . The possible electron groups that we’ll encounter in this course are linear (2 groups), trigonal planar (3 groups), and tetrahedral (4 groups). In organic chemistry, by far the most common electron geometry is tetrahedral.            Number of electron groups  Electron geometry  Number of atoms bound  Number of lone pairs of electrons  Molecular shape  Bond angles (degrees)    2  Linear  2  0  Linear  180    3  Trigonal planar  3  0  Trigonal planar  120      2  1  Bent  <120    4  Tetrahedral  4  0  Tetrahedral  109.5      3  1  Trigonal pyramidal  <109.5      2  2  Bent  <109.5     One challenge in chemistry is being able to draw 3-dimensional objects on a 2-dimensional sheet of paper. To aid in this, we often use wedges and dashes to represent bonds that not in the plane of the paper. Wedges are meant to represent bonds that are pointed toward the viewer. Dashes are meant to represent bonds that are pointed away from the viewer. So a tetrahedral shape for methane can be represented as shown below:    A drawing of methane with two bonds drawn as lines, one bond drawn as a dash, and one drawn as a wedge   A 3-dimensional depiction of the tetrahedral structure of methane. The wedge bond represents a bond that is coming at the viewer. The dashed line represents a bond that is going away from the viewer     "
 },
 {
   "id": "sec-hydrocarbons5-2",
@@ -484,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.5.1",
   "title": "",
-  "body": "          Number of electron groups  Electron geometry  Number of atoms bound  Number of lone pairs of electrons  Molecular shape   Bond angles  (degrees)    2  Linear  2  0  Linear  180    3  Trigonal planar  3  0  Trigonal planar  120      2  1  Bent  <120    4  Tetrahedral  4  0  Tetrahedral  109.5      3  1  Trigonal pyramidal  <109.5      2  2  Bent  <109.5    "
+  "body": "          Number of electron groups  Electron geometry  Number of atoms bound  Number of lone pairs of electrons  Molecular shape  Bond angles (degrees)    2  Linear  2  0  Linear  180    3  Trigonal planar  3  0  Trigonal planar  120      2  1  Bent  <120    4  Tetrahedral  4  0  Tetrahedral  109.5      3  1  Trigonal pyramidal  <109.5      2  2  Bent  <109.5    "
 },
 {
   "id": "sec-hydrocarbons5-6",
@@ -493,7 +493,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "1.5.2",
   "title": "",
-  "body": "   "
+  "body": "  A drawing of methane with two bonds drawn as lines, one bond drawn as a dash, and one drawn as a wedge   A 3-dimensional depiction of the tetrahedral structure of methane. The wedge bond represents a bond that is coming at the viewer. The dashed line represents a bond that is going away from the viewer  "
 },
 {
   "id": "sec-hydrocarbons6",
